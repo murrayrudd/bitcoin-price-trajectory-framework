@@ -1,0 +1,64 @@
+{
+  "design_status": "Specified during revision after reading v0.7, before evaluating the new queries. Hypothetical planning conditions, not an independently observed market forecast or a preregistered experiment.",
+  "index_base": "Main T latent month-36 price = 100",
+  "origin": 36,
+  "future_months": [
+    37,
+    60
+  ],
+  "planning_class": {
+    "acquisition_month": 48,
+    "maximum_acquisition_index": 105.5,
+    "valuation_month": 60,
+    "minimum_terminal_index": 112.0
+  },
+  "complete_path_queries": {
+    "lower_midpoint": {
+      "months": [
+        36,
+        48,
+        60
+      ],
+      "indices": [
+        100.0,
+        105.5,
+        112.0
+      ]
+    },
+    "higher_midpoint": {
+      "months": [
+        36,
+        48,
+        60
+      ],
+      "indices": [
+        100.0,
+        106.5,
+        112.0
+      ]
+    }
+  },
+  "interpolation": "Linear in the price index between the three landmarks",
+  "tolerances": [
+    0.0025,
+    0.005,
+    0.01
+  ],
+  "measurement_allowance_multipliers": [
+    0.25,
+    0.5,
+    1,
+    2,
+    4
+  ],
+  "measurement_base_allowances": {
+    "A cash at 36": 2.0,
+    "A holdings at 36": 0.5,
+    "Log price at 37": 0.005
+  },
+  "measurement_information_date": "Planning at month 36; account snapshots refer to month 36; the price reading is unavailable until month 37. No cost or delay discount is assigned.",
+  "local_refinement": {
+    "fraction_of_refined_step": 0.5,
+    "scope": "One additional half-step neighborhood around endpoint witnesses, primary measurement maximizing pairs, and nearest or boundary configurations from the added queries; keep original parameter bounds."
+  }
+}

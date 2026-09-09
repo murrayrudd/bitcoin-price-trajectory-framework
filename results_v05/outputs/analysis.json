@@ -1,0 +1,7676 @@
+{
+  "equivalence": {
+    "P": 1.027014568990476,
+    "holdings": [
+      66.07297069830585,
+      25.976751927413744,
+      8.050277374280418
+    ],
+    "cash": [
+      14.362970615787628,
+      54.211934385208934,
+      32.12509499900342
+    ],
+    "pre_h": [
+      60.0,
+      30.0,
+      10.1
+    ],
+    "pre_c": [
+      20.6,
+      50.08,
+      30.02
+    ],
+    "shares": [
+      0.8253123581314499,
+      0.3298103416292936,
+      0.20468356978531513
+    ],
+    "K0": 38.61964420840253,
+    "K1": 35.353999805901616,
+    "rows": [
+      {
+        "nu": 0.0,
+        "price": 1.027014568990476,
+        "local_percent": 2.080815026136956,
+        "unit_percent": 2.080815026136995,
+        "target_price": 1.0483848424626458
+      },
+      {
+        "nu": 1.0,
+        "price": 1.0270145689904762,
+        "local_percent": 1.0863373981869535,
+        "unit_percent": 1.0845688626078154,
+        "target_price": 1.0381532492201926
+      },
+      {
+        "nu": 4.0,
+        "price": 1.0270145689904762,
+        "local_percent": 0.4463579235811457,
+        "unit_percent": 0.44519071486155415,
+        "target_price": 1.031586742491897
+      },
+      {
+        "nu": 16.0,
+        "price": 1.027014568990476,
+        "local_percent": 0.13298446376315604,
+        "unit_percent": 0.13257472367005363,
+        "target_price": 1.0283761307173662
+      }
+    ]
+  },
+  "continuous_scaling": [
+    {
+      "generator": "O_d-0.04",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.45778867435989534,
+      "beta_high": 0.4959036212269794,
+      "compatible": true,
+      "future_low": [
+        0.12303256603104548,
+        0.13738448354715696,
+        0.1540331791617341
+      ],
+      "future_high": [
+        0.13327611284607155,
+        0.1488229541429695,
+        0.16685780058280056
+      ],
+      "joint_distance": 0.0023573539813028233,
+      "joint_beta": 0.478011332873204,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.45778867435989534,
+      "beta_high": -1.753300162765829,
+      "compatible": false
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.4691274633038007,
+      "beta_high": 0.5024491793040475,
+      "compatible": true,
+      "future_low": [
+        0.14367425352846872,
+        0.15784836683826578,
+        0.17431066868530934
+      ],
+      "future_high": [
+        0.15387931088944184,
+        0.1690601991489257,
+        0.18669180398879423
+      ],
+      "joint_distance": 0.0020124299568146653,
+      "joint_beta": 0.48543893563412227,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.4691274633038007,
+      "beta_high": -1.753300162765829,
+      "compatible": false
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.4775873869924693,
+      "beta_high": 0.5073075211123539,
+      "compatible": true,
+      "future_low": [
+        0.16352925111283656,
+        0.17745406801821845,
+        0.19364502149799728
+      ],
+      "future_high": [
+        0.1737056322484515,
+        0.18849698674945317,
+        0.20569549889190544
+      ],
+      "joint_distance": 0.0017438157823689848,
+      "joint_beta": 0.49118570115896504,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.4775873869924693,
+      "beta_high": -1.753300162765829,
+      "compatible": false
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.43873120092635337,
+      "beta_high": 0.5149610946605214,
+      "compatible": true,
+      "future_low": [
+        0.11791079262353246,
+        0.1316652482492507,
+        0.14762086845120087
+      ],
+      "future_high": [
+        0.13839788625358457,
+        0.1545421894408758,
+        0.17327011129333378
+      ],
+      "joint_distance": 0.0023573539813028233,
+      "joint_beta": 0.478011332873204,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.43873120092635337,
+      "beta_high": -1.1508036205963639,
+      "compatible": false
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.4524666053036772,
+      "beta_high": 0.519110037304171,
+      "compatible": true,
+      "future_low": [
+        0.13857172484798216,
+        0.15224245068293582,
+        0.1681201010335669
+      ],
+      "future_high": [
+        0.15898183956992842,
+        0.1746661153042557,
+        0.19288237164053673
+      ],
+      "joint_distance": 0.0020124299568146653,
+      "joint_beta": 0.48543893563412227,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.4524666053036772,
+      "beta_high": -1.1508036205963639,
+      "compatible": false
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.4627273199325269,
+      "beta_high": 0.5221675881722962,
+      "compatible": true,
+      "future_low": [
+        0.1584410605450291,
+        0.1719326086526011,
+        0.1876197828010432
+      ],
+      "future_high": [
+        0.178793822816259,
+        0.19401844611507055,
+        0.21172073758885956
+      ],
+      "joint_distance": 0.0017438157823689848,
+      "joint_beta": 0.49118570115896504,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.4627273199325269,
+      "beta_high": -1.1508036205963639,
+      "compatible": false
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.3815587806257274,
+      "beta_high": 0.5721335149611474,
+      "compatible": true,
+      "future_low": [
+        0.1025454724009934,
+        0.1145075423555319,
+        0.1283839363196012
+      ],
+      "future_high": [
+        0.15376320647612363,
+        0.1716998953345946,
+        0.19250704342493344
+      ],
+      "joint_distance": 0.0023573539813028233,
+      "joint_beta": 0.478011332873204,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.3815587806257274,
+      "beta_high": 0.5531968765787121,
+      "compatible": true,
+      "future_low": [
+        0.1025454724009934,
+        0.1145075423555319,
+        0.1283839363196012
+      ],
+      "future_high": [
+        0.14867390797949592,
+        0.1660169231904544,
+        0.18613539035430832
+      ],
+      "joint_distance": 0.0023573539813028233,
+      "joint_beta": 0.478011332873204,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.40248403130330695,
+      "beta_high": 0.5690926113045413,
+      "compatible": true,
+      "future_low": [
+        0.12326413880652248,
+        0.13542470221694597,
+        0.14954839807833956
+      ],
+      "future_high": [
+        0.1742894256113881,
+        0.19148386377024554,
+        0.21145407459576404
+      ],
+      "joint_distance": 0.0020124299568146653,
+      "joint_beta": 0.48543893563412227,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.40248403130330695,
+      "beta_high": 0.552530958232573,
+      "compatible": true,
+      "future_low": [
+        0.12326413880652248,
+        0.13542470221694597,
+        0.14954839807833956
+      ],
+      "future_high": [
+        0.1692172792792268,
+        0.1859113273189758,
+        0.20530036787994257
+      ],
+      "joint_distance": 0.0020124299568146653,
+      "joint_beta": 0.48543893563412227,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.41814711875270005,
+      "beta_high": 0.5667477893521231,
+      "compatible": true,
+      "future_low": [
+        0.14317648884160672,
+        0.15536823055574905,
+        0.169544066710181
+      ],
+      "future_high": [
+        0.19405839451968138,
+        0.2105828242119226,
+        0.22979645367972176
+      ],
+      "joint_distance": 0.0017438157823689848,
+      "joint_beta": 0.49118570115896504,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d-0.04",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.41814711875270005,
+      "beta_high": 0.5519730926454195,
+      "compatible": true,
+      "future_low": [
+        0.14317648884160672,
+        0.15536823055574905,
+        0.169544066710181
+      ],
+      "future_high": [
+        0.18899943535603697,
+        0.2050930853583685,
+        0.22380582968227286
+      ],
+      "joint_distance": 0.0017438157823689848,
+      "joint_beta": 0.49118570115896504,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.5532991434183031,
+      "beta_high": 0.5914140902853872,
+      "compatible": true,
+      "future_low": [
+        0.14870139260810183,
+        0.16604761393867107,
+        0.1861698003065577
+      ],
+      "future_high": [
+        0.1589449394231279,
+        0.1774860845344836,
+        0.19899442172762416
+      ],
+      "joint_distance": 9.09810137297018e-05,
+      "joint_beta": 0.5624344877268174,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.5532991434183031,
+      "beta_high": 0.5726508069306795,
+      "compatible": true,
+      "future_low": [
+        0.14870139260810183,
+        0.16604761393867107,
+        0.1861698003065577
+      ],
+      "future_high": [
+        0.1539022307944683,
+        0.17185513703028885,
+        0.1926810978109081
+      ],
+      "joint_distance": 9.09810137297018e-05,
+      "joint_beta": 0.5624344877268174,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.5541668935802859,
+      "beta_high": 0.5874886095805328,
+      "compatible": true,
+      "future_low": [
+        0.1697182983162455,
+        0.18646177414438847,
+        0.20590822183583238
+      ],
+      "future_high": [
+        0.17992335567721862,
+        0.19767360645504842,
+        0.2182893571393173
+      ],
+      "joint_distance": 0.00010288582940917723,
+      "joint_beta": 0.56210599859213,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.5541668935802859,
+      "beta_high": 0.5710585575732308,
+      "compatible": true,
+      "future_low": [
+        0.1697182983162455,
+        0.18646177414438847,
+        0.20590822183583238
+      ],
+      "future_high": [
+        0.1748915132841964,
+        0.19214535010834863,
+        0.21218454858311347
+      ],
+      "joint_distance": 0.00010288582940917723,
+      "joint_beta": 0.56210599859213,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.5547340574038052,
+      "beta_high": 0.5844541915236898,
+      "compatible": true,
+      "future_low": [
+        0.18994480893914392,
+        0.20611895924317905,
+        0.22492530455651455
+      ],
+      "future_high": [
+        0.20012119007475884,
+        0.21716187797441375,
+        0.2369757819504227
+      ],
+      "joint_distance": 0.00011421269561084912,
+      "joint_beta": 0.5617748004072487,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.5547340574038052,
+      "beta_high": 0.5697840237098075,
+      "compatible": true,
+      "future_low": [
+        0.18994480893914392,
+        0.20611895924317905,
+        0.22492530455651455
+      ],
+      "future_high": [
+        0.19509802233280665,
+        0.21171097824802632,
+        0.23102754077180201
+      ],
+      "joint_distance": 0.00011421269561084912,
+      "joint_beta": 0.5617748004072487,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.5342416699847611,
+      "beta_high": 0.6104715637189292,
+      "compatible": true,
+      "future_low": [
+        0.14357961920058881,
+        0.16032837864076477,
+        0.17975748959602447
+      ],
+      "future_high": [
+        0.16406671283064092,
+        0.18320531983238988,
+        0.20540673243815738
+      ],
+      "joint_distance": 9.09810137297018e-05,
+      "joint_beta": 0.5624344877268174,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.5342416699847611,
+      "beta_high": 0.5921871414038835,
+      "compatible": true,
+      "future_low": [
+        0.14357961920058881,
+        0.16032837864076477,
+        0.17975748959602447
+      ],
+      "future_high": [
+        0.1591527000517952,
+        0.17771808072534323,
+        0.19925453196648715
+      ],
+      "joint_distance": 9.09810137297018e-05,
+      "joint_beta": 0.5624344877268174,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.5375060355801625,
+      "beta_high": 0.6041494675806562,
+      "compatible": true,
+      "future_low": [
+        0.16461576963575894,
+        0.1808558579890585,
+        0.19971765418408993
+      ],
+      "future_high": [
+        0.18502588435770517,
+        0.20327952261037835,
+        0.22447992479105974
+      ],
+      "joint_distance": 0.00010288582940917723,
+      "joint_beta": 0.56210599859213,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.5375060355801625,
+      "beta_high": 0.5880704162764494,
+      "compatible": true,
+      "future_low": [
+        0.16461576963575894,
+        0.1808558579890585,
+        0.19971765418408993
+      ],
+      "future_high": [
+        0.18010153889877847,
+        0.19786936825530466,
+        0.21850553530440828
+      ],
+      "joint_distance": 0.00010288582940917723,
+      "joint_beta": 0.56210599859213,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.5398739903438629,
+      "beta_high": 0.5993142585836322,
+      "compatible": true,
+      "future_low": [
+        0.18485661837133643,
+        0.20059749987756167,
+        0.21890006585956046
+      ],
+      "future_high": [
+        0.20520938064256633,
+        0.22268333734003112,
+        0.2430010206473768
+      ],
+      "joint_distance": 0.00011421269561084912,
+      "joint_beta": 0.5617748004072487,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.5398739903438629,
+      "beta_high": 0.5849125220139976,
+      "compatible": true,
+      "future_low": [
+        0.18485661837133643,
+        0.20059749987756167,
+        0.21890006585956046
+      ],
+      "future_high": [
+        0.20027812563018504,
+        0.21733217688141396,
+        0.2371616189722246
+      ],
+      "joint_distance": 0.00011421269561084912,
+      "joint_beta": 0.5617748004072487,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.47706924968413505,
+      "beta_high": 0.667643984019555,
+      "compatible": true,
+      "future_low": [
+        0.12821429897804973,
+        0.14317067274704598,
+        0.16052055746442478
+      ],
+      "future_high": [
+        0.17943203305317995,
+        0.20036302572610865,
+        0.224643664569757
+      ],
+      "joint_distance": 9.09810137297018e-05,
+      "joint_beta": 0.5624344877268174,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.47706924968413505,
+      "beta_high": 0.6507961448234953,
+      "compatible": true,
+      "future_low": [
+        0.12821429897804973,
+        0.14317067274704598,
+        0.16052055746442478
+      ],
+      "future_high": [
+        0.1749041078237758,
+        0.19530691181050633,
+        0.21897483443322427
+      ],
+      "joint_distance": 9.09810137297018e-05,
+      "joint_beta": 0.5624344877268174,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.4875234615797922,
+      "beta_high": 0.6541320415810266,
+      "compatible": true,
+      "future_low": [
+        0.14930818359429923,
+        0.16403810952306863,
+        0.1811459512288626
+      ],
+      "future_high": [
+        0.20033347039916488,
+        0.22009727107636823,
+        0.24305162774628708
+      ],
+      "joint_distance": 0.00010288582940917723,
+      "joint_beta": 0.56210599859213,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.4875234615797922,
+      "beta_high": 0.6391059923861053,
+      "compatible": true,
+      "future_low": [
+        0.14930818359429923,
+        0.16403810952306863,
+        0.1811459512288626
+      ],
+      "future_high": [
+        0.19573161574252476,
+        0.2150414226961727,
+        0.2374684954682927
+      ],
+      "joint_distance": 0.00010288582940917723,
+      "joint_beta": 0.56210599859213,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.495293789164036,
+      "beta_high": 0.643894459763459,
+      "compatible": true,
+      "future_low": [
+        0.16959204666791405,
+        0.18403312178070963,
+        0.20082434976869823
+      ],
+      "future_high": [
+        0.2204739523459887,
+        0.23924771543688317,
+        0.261076736738239
+      ],
+      "joint_distance": 0.00011421269561084912,
+      "joint_beta": 0.5617748004072487,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.00",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.495293789164036,
+      "beta_high": 0.6302980169265677,
+      "compatible": true,
+      "future_low": [
+        0.16959204666791405,
+        0.18403312178070963,
+        0.20082434976869823
+      ],
+      "future_high": [
+        0.2158184355223202,
+        0.23419577278157688,
+        0.2555638535734924
+      ],
+      "joint_distance": 0.00011421269561084912,
+      "joint_beta": 0.5617748004072487,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.6512603593785711,
+      "beta_high": 0.6893753062456551,
+      "compatible": true,
+      "future_low": [
+        0.1750288673713548,
+        0.19544622473036682,
+        0.2191310297428427
+      ],
+      "future_high": [
+        0.18527241418638085,
+        0.2068846953261794,
+        0.23195565116390918
+      ],
+      "joint_distance": 0.0032712377047388053,
+      "joint_beta": 0.6512603593785711,
+      "pointwise": [
+        true,
+        false,
+        false
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 2.3082988284991397,
+      "beta_high": 0.6727251116231998,
+      "compatible": false
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.6415322905676724,
+      "beta_high": 0.6748540065679193,
+      "compatible": true,
+      "future_low": [
+        0.19647469008231966,
+        0.21585780467203455,
+        0.23837001944960143
+      ],
+      "future_high": [
+        0.2066797474432928,
+        0.2270696369826945,
+        0.25075115475308635
+      ],
+      "joint_distance": 0.0024458755063607174,
+      "joint_beta": 0.6415322905676724,
+      "pointwise": [
+        true,
+        true,
+        false
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 2.3082988284991397,
+      "beta_high": 0.6599782235519512,
+      "compatible": false
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.6341081635163138,
+      "beta_high": 0.6638282976361984,
+      "compatible": true,
+      "future_low": [
+        0.2171230562795286,
+        0.23561148439899204,
+        0.2571087350724118
+      ],
+      "future_high": [
+        0.22729943741514355,
+        0.24665440313022674,
+        0.2691592124663199
+      ],
+      "joint_distance": 0.001997297596233294,
+      "joint_beta": 0.6345036170393246,
+      "pointwise": [
+        true,
+        true,
+        false
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 2.3082988284991397,
+      "beta_high": 0.6503514056507463,
+      "compatible": false
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.632202885945029,
+      "beta_high": 0.7084327796791972,
+      "compatible": true,
+      "future_low": [
+        0.16990709396384177,
+        0.18972698943246055,
+        0.2127187190323095
+      ],
+      "future_high": [
+        0.1903941875938939,
+        0.21260393062408567,
+        0.2383679618744424
+      ],
+      "joint_distance": 0.0025692214646035327,
+      "joint_beta": 0.6491739576974553,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 1.705802286329675,
+      "beta_high": 0.6922614460964037,
+      "compatible": false
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.6248714325675488,
+      "beta_high": 0.6915148645680427,
+      "compatible": true,
+      "future_low": [
+        0.19137216140183308,
+        0.21025188851670457,
+        0.23217945179785893
+      ],
+      "future_high": [
+        0.21178227612377934,
+        0.23267555313802443,
+        0.25694172240482877
+      ],
+      "joint_distance": 0.0022453201512699916,
+      "joint_beta": 0.6409925300028411,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 1.705802286329675,
+      "beta_high": 0.6769900822551699,
+      "compatible": false
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.6192480964563715,
+      "beta_high": 0.6786883646961408,
+      "compatible": true,
+      "future_low": [
+        0.21203486571172112,
+        0.23009002503337467,
+        0.2510834963754577
+      ],
+      "future_high": [
+        0.23238762798295104,
+        0.2521758624958441,
+        0.275184451163274
+      ],
+      "joint_distance": 0.001997297596233294,
+      "joint_beta": 0.6345036170393246,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 1.705802286329675,
+      "beta_high": 0.6654799039549364,
+      "compatible": false
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.5750304656444031,
+      "beta_high": 0.7656051999798231,
+      "compatible": true,
+      "future_low": [
+        0.1545417737413027,
+        0.17256928353874176,
+        0.19348178690070983
+      ],
+      "future_high": [
+        0.20575950781643296,
+        0.22976163651780446,
+        0.2576048940060421
+      ],
+      "joint_distance": 0.0025692214646035327,
+      "joint_beta": 0.6491739576974553,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.575058421362371,
+      "beta_high": 0.7508704495160156,
+      "compatible": true,
+      "future_low": [
+        0.15454928695407852,
+        0.17257767317808917,
+        0.19349119322366082
+      ],
+      "future_high": [
+        0.20179948376838455,
+        0.22533967023500606,
+        0.2526470595614293
+      ],
+      "joint_distance": 0.0025692214646035327,
+      "joint_beta": 0.6491739576974553,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.5748888585671786,
+      "beta_high": 0.741497438568413,
+      "compatible": true,
+      "future_low": [
+        0.1760645753603734,
+        0.19343414005071471,
+        0.21360774884263162
+      ],
+      "future_high": [
+        0.22708986216523905,
+        0.24949330160401434,
+        0.27551342536005613
+      ],
+      "joint_distance": 0.0022453201512699916,
+      "joint_beta": 0.6409925300028411,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.575058421362371,
+      "beta_high": 0.7280256583648258,
+      "compatible": true,
+      "future_low": [
+        0.17611650540056736,
+        0.19349119322366082,
+        0.21367075219785192
+      ],
+      "future_high": [
+        0.22296401553324052,
+        0.24496042158764397,
+        0.27050780279613457
+      ],
+      "joint_distance": 0.0022453201512699916,
+      "joint_beta": 0.6409925300028411,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.5746678952765446,
+      "beta_high": 0.7232685658759677,
+      "compatible": true,
+      "future_low": [
+        0.19677029400829874,
+        0.21352564693652262,
+        0.23300778028459546
+      ],
+      "future_high": [
+        0.24765219968637342,
+        0.2687402405926962,
+        0.29326016725413623
+      ],
+      "joint_distance": 0.001997297596233294,
+      "joint_beta": 0.6345036170393246,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "O_d+0.04",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.575058421362371,
+      "beta_high": 0.7108653988675065,
+      "compatible": true,
+      "future_low": [
+        0.19690401286288864,
+        0.21367075219785192,
+        0.2331661249862041
+      ],
+      "future_high": [
+        0.24340526882604677,
+        0.26413167574800633,
+        0.2882311158021669
+      ],
+      "joint_distance": 0.001997297596233294,
+      "joint_beta": 0.6345036170393246,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.7951832823993841,
+      "beta_high": 0.8332982292664681,
+      "compatible": true,
+      "future_low": [
+        0.2137087376296097,
+        0.2386381548877893,
+        0.26755709755271834
+      ],
+      "future_high": [
+        0.22395228444463575,
+        0.2500766254836019,
+        0.2803817189737848
+      ],
+      "joint_distance": 0.00041968221393712257,
+      "joint_beta": 0.8067496107976025,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.7951832823993841,
+      "beta_high": 0.6691419936255755,
+      "compatible": false
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.7986059810895175,
+      "beta_high": 0.8319276970897644,
+      "compatible": true,
+      "future_low": [
+        0.24457983633779146,
+        0.268708740636268,
+        0.2967328785218734
+      ],
+      "future_high": [
+        0.2547848936987646,
+        0.27992057294692796,
+        0.3091140138253583
+      ],
+      "joint_distance": 0.00018611983651209418,
+      "joint_beta": 0.8077883068984717,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.7986059810895175,
+      "beta_high": 0.6691419936255755,
+      "compatible": false
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.8005668784362255,
+      "beta_high": 0.8302870125561101,
+      "compatible": true,
+      "future_low": [
+        0.2741196808417421,
+        0.29746147651381527,
+        0.3246019359129599
+      ],
+      "future_high": [
+        0.284296061977357,
+        0.30850439524504997,
+        0.336652413306868
+      ],
+      "joint_distance": 4.605867554841048e-05,
+      "joint_beta": 0.8081652576476476,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.8005668784362255,
+      "beta_high": 0.6691419936255755,
+      "compatible": false
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.776125808965842,
+      "beta_high": 0.8523557027000102,
+      "compatible": true,
+      "future_low": [
+        0.20858696422209666,
+        0.23291891958988303,
+        0.26114478684218506
+      ],
+      "future_high": [
+        0.2290740578521488,
+        0.2557958607815081,
+        0.286794029684318
+      ],
+      "joint_distance": 0.00041968221393712257,
+      "joint_beta": 0.8067496107976025,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.776125808965842,
+      "beta_high": 0.8226533760192282,
+      "compatible": true,
+      "future_low": [
+        0.20858696422209666,
+        0.23291891958988303,
+        0.26114478684218506
+      ],
+      "future_high": [
+        0.22109143688901836,
+        0.24688205613814526,
+        0.2768000213931814
+      ],
+      "joint_distance": 0.00041968221393712257,
+      "joint_beta": 0.8067496107976025,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.7819451230893941,
+      "beta_high": 0.8485885550898878,
+      "compatible": true,
+      "future_low": [
+        0.2394773076573049,
+        0.2631028244809381,
+        0.290542310870131
+      ],
+      "future_high": [
+        0.25988742237925117,
+        0.2855264891022579,
+        0.3153045814771008
+      ],
+      "joint_distance": 0.00018611983651209418,
+      "joint_beta": 0.8077883068984717,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.7819451230893941,
+      "beta_high": 0.8226533760192282,
+      "compatible": true,
+      "future_low": [
+        0.2394773076573049,
+        0.2631028244809381,
+        0.290542310870131
+      ],
+      "future_high": [
+        0.251944554428476,
+        0.2768000213931814,
+        0.30566801410489314
+      ],
+      "joint_distance": 0.00018611983651209418,
+      "joint_beta": 0.8077883068984717,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.7857068113762832,
+      "beta_high": 0.8451470796160525,
+      "compatible": true,
+      "future_low": [
+        0.2690314902739346,
+        0.2919400171481979,
+        0.3185766972160058
+      ],
+      "future_high": [
+        0.2893842525451645,
+        0.31402585461066734,
+        0.34267765200382216
+      ],
+      "joint_distance": 4.605867554841048e-05,
+      "joint_beta": 0.8081652576476476,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.7857068113762832,
+      "beta_high": 0.8226533760192282,
+      "compatible": true,
+      "future_low": [
+        0.2690314902739346,
+        0.2919400171481979,
+        0.3185766972160058
+      ],
+      "future_high": [
+        0.28168225160433813,
+        0.30566801410489314,
+        0.33355724004318277
+      ],
+      "joint_distance": 4.605867554841048e-05,
+      "joint_beta": 0.8081652576476476,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.7189533886652161,
+      "beta_high": 0.9095281230006361,
+      "compatible": true,
+      "future_low": [
+        0.1932216439995576,
+        0.21576121369616424,
+        0.24190785471058543
+      ],
+      "future_high": [
+        0.24443937807468785,
+        0.27295356667522697,
+        0.30603096181591766
+      ],
+      "joint_distance": 0.00041968221393712257,
+      "joint_beta": 0.8067496107976025,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.7189533886652161,
+      "beta_high": 0.8920988872010372,
+      "compatible": true,
+      "future_low": [
+        0.1932216439995576,
+        0.21576121369616424,
+        0.24190785471058543
+      ],
+      "future_high": [
+        0.2397552001461203,
+        0.2677229729688675,
+        0.3001665078638281
+      ],
+      "joint_distance": 0.00041968221393712257,
+      "joint_beta": 0.8067496107976025,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.7319625490890238,
+      "beta_high": 0.8985711290902582,
+      "compatible": true,
+      "future_low": [
+        0.22416972161584522,
+        0.24628507601494817,
+        0.27197060791490363
+      ],
+      "future_high": [
+        0.2751950084207109,
+        0.3023442375682478,
+        0.33387628443232814
+      ],
+      "joint_distance": 0.00018611983651209418,
+      "joint_beta": 0.8077883068984717,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.7319625490890238,
+      "beta_high": 0.8832139181044651,
+      "compatible": true,
+      "future_low": [
+        0.22416972161584522,
+        0.24628507601494817,
+        0.27197060791490363
+      ],
+      "future_high": [
+        0.27049173266464166,
+        0.29717696243959413,
+        0.32817010450156286
+      ],
+      "joint_distance": 0.00018611983651209418,
+      "joint_beta": 0.8077883068984717,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.7411266101964563,
+      "beta_high": 0.8897272807958795,
+      "compatible": true,
+      "future_low": [
+        0.2537669185705122,
+        0.2753756390513458,
+        0.30050098112514356
+      ],
+      "future_high": [
+        0.3046488242485869,
+        0.3305902327075194,
+        0.3607533680946844
+      ],
+      "joint_distance": 4.605867554841048e-05,
+      "joint_beta": 0.8081652576476476,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau0",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.7411266101964563,
+      "beta_high": 0.8759599529364569,
+      "compatible": true,
+      "future_low": [
+        0.2537669185705122,
+        0.2753756390513458,
+        0.30050098112514356
+      ],
+      "future_high": [
+        0.2999347952017692,
+        0.32547479540550034,
+        0.3551711970158031
+      ],
+      "joint_distance": 4.605867554841048e-05,
+      "joint_beta": 0.8081652576476476,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.8012612375813754,
+      "beta_high": 0.8393761844484594,
+      "compatible": true,
+      "future_low": [
+        0.21534221277686552,
+        0.24046217715061222,
+        0.2696021607268864
+      ],
+      "future_high": [
+        0.2255857595918916,
+        0.2519006477464248,
+        0.28242678214795286
+      ],
+      "joint_distance": 0.00024788572755254923,
+      "joint_beta": 0.812053462665162,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.8012612375813754,
+      "beta_high": 0.6650336720915929,
+      "compatible": false
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.8039609235435536,
+      "beta_high": 0.8372826395438006,
+      "compatible": true,
+      "future_low": [
+        0.24621983275657566,
+        0.27051053010075543,
+        0.29872257998458634
+      ],
+      "future_high": [
+        0.2564248901175488,
+        0.28172236241141535,
+        0.3111037152880713
+      ],
+      "joint_distance": 5.735239965559691e-05,
+      "joint_beta": 0.8126197302711029,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.8039609235435536,
+      "beta_high": 0.6650336720915929,
+      "compatible": false
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.8053601488421175,
+      "beta_high": 0.8350802829620022,
+      "compatible": true,
+      "future_low": [
+        0.2757609300480767,
+        0.299242481112771,
+        0.32654543981627654
+      ],
+      "future_high": [
+        0.2859373111836917,
+        0.31028539984400577,
+        0.3385959172101847
+      ],
+      "joint_distance": 0.00014539067566504693,
+      "joint_beta": 0.8123778424585686,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.8053601488421175,
+      "beta_high": 0.6650336720915929,
+      "compatible": false
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.7822037641478333,
+      "beta_high": 0.8584336578820014,
+      "compatible": true,
+      "future_low": [
+        0.21022043936935247,
+        0.23474294185270594,
+        0.2631898500163532
+      ],
+      "future_high": [
+        0.2307075329994046,
+        0.25761988304433103,
+        0.2888390928584861
+      ],
+      "joint_distance": 0.00024788572755254923,
+      "joint_beta": 0.812053462665162,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.7822037641478333,
+      "beta_high": 0.8397096426689459,
+      "compatible": true,
+      "future_low": [
+        0.21022043936935247,
+        0.23474294185270594,
+        0.2631898500163532
+      ],
+      "future_high": [
+        0.22567537784334343,
+        0.2520007200897831,
+        0.2825389815812197
+      ],
+      "joint_distance": 0.00024788572755254923,
+      "joint_beta": 0.812053462665162,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.7873000655434302,
+      "beta_high": 0.853943497543924,
+      "compatible": true,
+      "future_low": [
+        0.2411173040760891,
+        0.26490461394542547,
+        0.2925320123328439
+      ],
+      "future_high": [
+        0.26152741879803537,
+        0.2873282785667453,
+        0.3172942829398137
+      ],
+      "joint_distance": 5.735239965559691e-05,
+      "joint_beta": 0.8126197302711029,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.7873000655434302,
+      "beta_high": 0.8376407550706124,
+      "compatible": true,
+      "future_low": [
+        0.2411173040760891,
+        0.26490461394542547,
+        0.2925320123328439
+      ],
+      "future_high": [
+        0.2565345660265849,
+        0.28184285834369055,
+        0.3112367779668272
+      ],
+      "joint_distance": 5.735239965559691e-05,
+      "joint_beta": 0.8126197302711029,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.7905000817821752,
+      "beta_high": 0.8499403500219445,
+      "compatible": true,
+      "future_low": [
+        0.27067273948026926,
+        0.2937210217471537,
+        0.32052020111932245
+      ],
+      "future_high": [
+        0.29102550175149916,
+        0.31580685920962315,
+        0.34462115590713877
+      ],
+      "joint_distance": 0.00014539067566504693,
+      "joint_beta": 0.8123778424585686,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.7905000817821752,
+      "beta_high": 0.8354526529246196,
+      "compatible": true,
+      "future_low": [
+        0.27067273948026926,
+        0.2937210217471537,
+        0.32052020111932245
+      ],
+      "future_high": [
+        0.2860648132551078,
+        0.31042375895162455,
+        0.3387469002373336
+      ],
+      "joint_distance": 0.00014539067566504693,
+      "joint_beta": 0.8123778424585686,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.7250313438472074,
+      "beta_high": 0.9156060781826274,
+      "compatible": true,
+      "future_low": [
+        0.19485511914681342,
+        0.21758523595898716,
+        0.2439529178847535
+      ],
+      "future_high": [
+        0.24607285322194367,
+        0.2747775889380499,
+        0.30807602499008574
+      ],
+      "joint_distance": 0.00024788572755254923,
+      "joint_beta": 0.812053462665162,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.7250313438472074,
+      "beta_high": 0.8983186460885577,
+      "compatible": true,
+      "future_low": [
+        0.19485511914681342,
+        0.21758523595898716,
+        0.2439529178847535
+      ],
+      "future_high": [
+        0.24142678561532405,
+        0.26958955117494615,
+        0.3022592840479568
+      ],
+      "joint_distance": 0.00024788572755254923,
+      "joint_beta": 0.812053462665162,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.73731749154306,
+      "beta_high": 0.9039260715442943,
+      "compatible": true,
+      "future_low": [
+        0.22580971803462946,
+        0.24808686547943562,
+        0.2739603093776166
+      ],
+      "future_high": [
+        0.276835004839495,
+        0.3041460270327352,
+        0.3358659858950411
+      ],
+      "joint_distance": 5.735239965559691e-05,
+      "joint_beta": 0.8126197302711029,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.73731749154306,
+      "beta_high": 0.8886763311802685,
+      "compatible": true,
+      "future_low": [
+        0.22580971803462946,
+        0.24808686547943562,
+        0.2739603093776166
+      ],
+      "future_high": [
+        0.2721646428703312,
+        0.29901491278455866,
+        0.33019973813071163
+      ],
+      "joint_distance": 5.735239965559691e-05,
+      "joint_beta": 0.8126197302711029,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.7459198806023483,
+      "beta_high": 0.8945205512017714,
+      "compatible": true,
+      "future_low": [
+        0.2554081677768469,
+        0.2771566436503016,
+        0.3024444850284602
+      ],
+      "future_high": [
+        0.30629007345492154,
+        0.3323712373064752,
+        0.36269687199800105
+      ],
+      "joint_distance": 0.00014539067566504693,
+      "joint_beta": 0.8123778424585686,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau2",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.7459198806023483,
+      "beta_high": 0.8808381478371898,
+      "compatible": true,
+      "future_low": [
+        0.2554081677768469,
+        0.2771566436503016,
+        0.3024444850284602
+      ],
+      "future_high": [
+        0.30160512314724297,
+        0.3272873548517875,
+        0.35714913483860145
+      ],
+      "joint_distance": 0.00014539067566504693,
+      "joint_beta": 0.8123778424585686,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.8005705687393737,
+      "beta_high": 0.8386855156064578,
+      "compatible": true,
+      "future_low": [
+        0.21515659271968965,
+        0.24025490425926518,
+        0.2693697698368535
+      ],
+      "future_high": [
+        0.2254001395347157,
+        0.25169337485507776,
+        0.28219439125792
+      ],
+      "joint_distance": 0.0016586689137225996,
+      "joint_beta": 0.817600365839924,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.8005705687393737,
+      "beta_high": 0.6682886186360699,
+      "compatible": false
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.803742967391712,
+      "beta_high": 0.8370646833919588,
+      "compatible": true,
+      "future_low": [
+        0.24615308184159565,
+        0.27043719390685994,
+        0.29864159542166174
+      ],
+      "future_high": [
+        0.2563581392025687,
+        0.2816490262175198,
+        0.31102273072514663
+      ],
+      "joint_distance": 0.0015851629174900572,
+      "joint_beta": 0.8180075731526053,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.803742967391712,
+      "beta_high": 0.6682886186360699,
+      "compatible": false
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.8058664141716668,
+      "beta_high": 0.8355865482915515,
+      "compatible": true,
+      "future_low": [
+        0.2759342788266677,
+        0.29943059085911683,
+        0.32675071274285367
+      ],
+      "future_high": [
+        0.2861106599622827,
+        0.3104735095903516,
+        0.33880119013676185
+      ],
+      "joint_distance": 0.0014518488281528574,
+      "joint_beta": 0.8175100678868574,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.8058664141716668,
+      "beta_high": 0.6682886186360699,
+      "compatible": false
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.7815130953058317,
+      "beta_high": 0.8577429890399998,
+      "compatible": true,
+      "future_low": [
+        0.2100348193121766,
+        0.2345356689613589,
+        0.2629574591263203
+      ],
+      "future_high": [
+        0.23052191294222873,
+        0.257412610152984,
+        0.2886067019684532
+      ],
+      "joint_distance": 0.0016586689137225996,
+      "joint_beta": 0.817600365839924,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.7815130953058317,
+      "beta_high": 0.8529840075635308,
+      "compatible": true,
+      "future_low": [
+        0.2100348193121766,
+        0.2345356689613589,
+        0.2629574591263203
+      ],
+      "future_high": [
+        0.2292429173367501,
+        0.25598441795650956,
+        0.2870054368270268
+      ],
+      "joint_distance": 0.0016586689137225996,
+      "joint_beta": 0.817600365839924,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.7870821093915886,
+      "beta_high": 0.8537255413920823,
+      "compatible": true,
+      "future_low": [
+        0.2410505531611091,
+        0.26483127775153,
+        0.2924510277699193
+      ],
+      "future_high": [
+        0.26146066788305533,
+        0.2872549423728498,
+        0.3172132983768891
+      ],
+      "joint_distance": 0.0015851629174900572,
+      "joint_beta": 0.8180075731526053,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.7870821093915886,
+      "beta_high": 0.8490173160865397,
+      "compatible": true,
+      "future_low": [
+        0.2410505531611091,
+        0.26483127775153,
+        0.2924510277699193
+      ],
+      "future_high": [
+        0.2600187340609469,
+        0.2856707552737773,
+        0.3154638934378763
+      ],
+      "joint_distance": 0.0015851629174900572,
+      "joint_beta": 0.8180075731526053,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.7910063471117246,
+      "beta_high": 0.8504466153514938,
+      "compatible": true,
+      "future_low": [
+        0.27084608825886025,
+        0.2939091314934995,
+        0.32072547404589963
+      ],
+      "future_high": [
+        0.2911988505300901,
+        0.31599496895596896,
+        0.34482642883371595
+      ],
+      "joint_distance": 0.0014518488281528574,
+      "joint_beta": 0.8175100678868574,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.7910063471117246,
+      "beta_high": 0.844985058940899,
+      "compatible": true,
+      "future_low": [
+        0.27084608825886025,
+        0.2939091314934995,
+        0.32072547404589963
+      ],
+      "future_high": [
+        0.28932877553636094,
+        0.3139656536323917,
+        0.3426119582732553
+      ],
+      "joint_distance": 0.0014518488281528574,
+      "joint_beta": 0.8175100678868574,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.7243406750052057,
+      "beta_high": 0.9149154093406258,
+      "compatible": true,
+      "future_low": [
+        0.19466949908963754,
+        0.2173779630676401,
+        0.24372052699472063
+      ],
+      "future_high": [
+        0.2458872331647678,
+        0.2745703160467028,
+        0.3078436341000529
+      ],
+      "joint_distance": 0.0016586689137225996,
+      "joint_beta": 0.817600365839924,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.7243406750052057,
+      "beta_high": 0.9115930109831426,
+      "compatible": true,
+      "future_low": [
+        0.19466949908963754,
+        0.2173779630676401,
+        0.24372052699472063
+      ],
+      "future_high": [
+        0.24499432510873073,
+        0.27357324904167263,
+        0.3067257392937639
+      ],
+      "joint_distance": 0.0016586689137225996,
+      "joint_beta": 0.817600365839924,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.7370995353912183,
+      "beta_high": 0.9037081153924527,
+      "compatible": true,
+      "future_low": [
+        0.2257429671196494,
+        0.2480135292855401,
+        0.27387932481469196
+      ],
+      "future_high": [
+        0.27676825392451504,
+        0.3040726908388397,
+        0.3357850013321165
+      ],
+      "joint_distance": 0.0015851629174900572,
+      "joint_beta": 0.8180075731526053,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.7370995353912183,
+      "beta_high": 0.9000528921961957,
+      "compatible": true,
+      "future_low": [
+        0.2257429671196494,
+        0.2480135292855401,
+        0.27387932481469196
+      ],
+      "future_high": [
+        0.2756488109046932,
+        0.3028428097146454,
+        0.3344268536017607
+      ],
+      "joint_distance": 0.0015851629174900572,
+      "joint_beta": 0.8180075731526053,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.7464261459318976,
+      "beta_high": 0.8950268165313208,
+      "compatible": true,
+      "future_low": [
+        0.2555815165554378,
+        0.27734475339664744,
+        0.30264975795503735
+      ],
+      "future_high": [
+        0.30646342223351253,
+        0.33255934705282103,
+        0.3629021449245782
+      ],
+      "joint_distance": 0.0014518488281528574,
+      "joint_beta": 0.8175100678868574,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "T_tau4",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.7464261459318976,
+      "beta_high": 0.8903705538534692,
+      "compatible": true,
+      "future_low": [
+        0.2555815165554378,
+        0.27734475339664744,
+        0.30264975795503735
+      ],
+      "future_high": [
+        0.3048690854284961,
+        0.33082924953255466,
+        0.3610141928745231
+      ],
+      "joint_distance": 0.0014518488281528574,
+      "joint_beta": 0.8175100678868574,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.490471263283229,
+      "beta_high": 0.528586210150313,
+      "compatible": true,
+      "future_low": [
+        0.13181614457937452,
+        0.14719267857621593,
+        0.16502996295533984
+      ],
+      "future_high": [
+        0.14205969139440058,
+        0.1586311491720285,
+        0.1778545843764063
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.490471263283229,
+      "beta_high": 0.509768167236602,
+      "compatible": true,
+      "future_low": [
+        0.13181614457937452,
+        0.14719267857621593,
+        0.16502996295533984
+      ],
+      "future_high": [
+        0.13700226591179449,
+        0.15298376807269626,
+        0.17152283538839597
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.4916695709999383,
+      "beta_high": 0.5249912870001852,
+      "compatible": true,
+      "future_low": [
+        0.15057796467211493,
+        0.16543316023294147,
+        0.1826864943903703
+      ],
+      "future_high": [
+        0.16078302203308806,
+        0.1766449925436014,
+        0.1950676296938552
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.4916695709999383,
+      "beta_high": 0.5085059293516093,
+      "compatible": true,
+      "future_low": [
+        0.15057796467211493,
+        0.16543316023294147,
+        0.1826864943903703
+      ],
+      "future_high": [
+        0.15573424181964926,
+        0.17109812738408445,
+        0.18894227157688892
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.4925699664700288,
+      "beta_high": 0.5222901005899134,
+      "compatible": true,
+      "future_low": [
+        0.16865939078661005,
+        0.18302104853343282,
+        0.19971993470560515
+      ],
+      "future_high": [
+        0.17883577192222497,
+        0.19406396726466751,
+        0.2117704120995133
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.4925699664700288,
+      "beta_high": 0.5075642491520951,
+      "compatible": true,
+      "future_low": [
+        0.16865939078661005,
+        0.18302104853343282,
+        0.19971993470560515
+      ],
+      "future_high": [
+        0.173793537719203,
+        0.18859237753293534,
+        0.20579959315429353
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.471413789849687,
+      "beta_high": 0.5476436835838551,
+      "compatible": true,
+      "future_low": [
+        0.1266943711718615,
+        0.14147344327830969,
+        0.15861765224480662
+      ],
+      "future_high": [
+        0.1471814648019136,
+        0.16435038446993477,
+        0.18426689508693953
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.471413789849687,
+      "beta_high": 0.5293045017098059,
+      "compatible": true,
+      "future_low": [
+        0.1266943711718615,
+        0.14147344327830969,
+        0.15861765224480662
+      ],
+      "future_high": [
+        0.14225273516912135,
+        0.15884671176775061,
+        0.178096269543975
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.47500871299981484,
+      "beta_high": 0.5416521450003087,
+      "compatible": true,
+      "future_low": [
+        0.14547543599162835,
+        0.1598272440776115,
+        0.17649592673862782
+      ],
+      "future_high": [
+        0.16588555071357464,
+        0.18225090869893137,
+        0.20125819734559766
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.47500871299981484,
+      "beta_high": 0.525517788054828,
+      "compatible": true,
+      "future_low": [
+        0.14547543599162835,
+        0.1598272440776115,
+        0.17649592673862782
+      ],
+      "future_high": [
+        0.16094426743423135,
+        0.17682214553104048,
+        0.19526325829818372
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.4777098994100865,
+      "beta_high": 0.5371501676498558,
+      "compatible": true,
+      "future_low": [
+        0.16357120021880256,
+        0.17749958916781547,
+        0.19369469600865105
+      ],
+      "future_high": [
+        0.18392396249003246,
+        0.1995854266302849,
+        0.2177956507964674
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.4777098994100865,
+      "beta_high": 0.5226927474562851,
+      "compatible": true,
+      "future_low": [
+        0.16357120021880256,
+        0.17749958916781547,
+        0.19369469600865105
+      ],
+      "future_high": [
+        0.17897364101658136,
+        0.19421357616632298,
+        0.2119336713547161
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.414241369549061,
+      "beta_high": 0.604816103884481,
+      "compatible": true,
+      "future_low": [
+        0.11132905094932241,
+        0.12431573738459087,
+        0.13938072011320693
+      ],
+      "future_high": [
+        0.16254678502445266,
+        0.18150809036365356,
+        0.20350382721853918
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.414241369549061,
+      "beta_high": 0.5879135051294178,
+      "compatible": true,
+      "future_low": [
+        0.11132905094932241,
+        0.12431573738459087,
+        0.13938072011320693
+      ],
+      "future_high": [
+        0.15800414294110196,
+        0.1764355428529137,
+        0.19781657201071212
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.4250261389994446,
+      "beta_high": 0.5916347190006789,
+      "compatible": true,
+      "future_low": [
+        0.13016784995016867,
+        0.14300949561162163,
+        0.15792422378340049
+      ],
+      "future_high": [
+        0.1811931367550343,
+        0.19906865716492123,
+        0.21982990030082497
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.4250261389994446,
+      "beta_high": 0.5765533641644839,
+      "compatible": true,
+      "future_low": [
+        0.13016784995016867,
+        0.14300949561162163,
+        0.15792422378340049
+      ],
+      "future_high": [
+        0.1765743442779776,
+        0.19399419997190856,
+        0.21422621846206813
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.43312969823025965,
+      "beta_high": 0.5817303688296827,
+      "compatible": true,
+      "future_low": [
+        0.14830662851538018,
+        0.16093521107096342,
+        0.17561897991778885
+      ],
+      "future_high": [
+        0.19918853419345484,
+        0.21614980472713693,
+        0.23587136688732963
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta0.5",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.43312969823025965,
+      "beta_high": 0.5680782423688552,
+      "compatible": true,
+      "future_low": [
+        0.14830662851538018,
+        0.16093521107096342,
+        0.17561897991778885
+      ],
+      "future_high": [
+        0.19451395090871648,
+        0.21107717206648588,
+        0.23033590595598388
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 0.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 1.490471263283229,
+      "beta_high": 1.528586210150313,
+      "compatible": true,
+      "future_low": [
+        0.40057020714563657,
+        0.44729727102655414,
+        0.5015021995765527
+      ],
+      "future_high": [
+        0.4108137539606626,
+        0.45873574162236663,
+        0.5143268209976192
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 1.490471263283229,
+      "beta_high": 1.509768167236602,
+      "compatible": true,
+      "future_low": [
+        0.40057020714563657,
+        0.44729727102655414,
+        0.5015021995765527
+      ],
+      "future_high": [
+        0.4057563284780565,
+        0.4530883605230344,
+        0.5079950720096088
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 1.4916695709999384,
+      "beta_high": 1.5249912870001852,
+      "compatible": true,
+      "future_low": [
+        0.45683642269683133,
+        0.5019053968541544,
+        0.5542500508228533
+      ],
+      "future_high": [
+        0.46704148005780444,
+        0.5131172291648143,
+        0.5666311861263382
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 1.4916695709999384,
+      "beta_high": 1.5085059293516094,
+      "compatible": true,
+      "future_low": [
+        0.45683642269683133,
+        0.5019053968541544,
+        0.5542500508228533
+      ],
+      "future_high": [
+        0.4619926998443657,
+        0.5075703640052974,
+        0.560505828009372
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 1.4925699664700285,
+      "beta_high": 1.5222901005899132,
+      "compatible": true,
+      "future_low": [
+        0.5110663629276375,
+        0.5545846049659157,
+        0.6051850428137694
+      ],
+      "future_high": [
+        0.5212427440632524,
+        0.5656275236971504,
+        0.6172355202076776
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 1.4925699664700285,
+      "beta_high": 1.507564249152095,
+      "compatible": true,
+      "future_low": [
+        0.5110663629276375,
+        0.5545846049659157,
+        0.6051850428137694
+      ],
+      "future_high": [
+        0.5162005098602306,
+        0.5601559339654184,
+        0.6112647012624579
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 1.471413789849687,
+      "beta_high": 1.547643683583855,
+      "compatible": true,
+      "future_low": [
+        0.39544843373812355,
+        0.44157803572864784,
+        0.4950898888660195
+      ],
+      "future_high": [
+        0.41593552736817563,
+        0.4644549769202729,
+        0.5207391317081523
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 1.471413789849687,
+      "beta_high": 1.529304501709806,
+      "compatible": true,
+      "future_low": [
+        0.39544843373812355,
+        0.44157803572864784,
+        0.4950898888660195
+      ],
+      "future_high": [
+        0.4110067977353834,
+        0.4589513042180888,
+        0.5145685061651879
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 1.4750087129998148,
+      "beta_high": 1.5416521450003087,
+      "compatible": true,
+      "future_low": [
+        0.4517338940163448,
+        0.4962994806988244,
+        0.5480594831711109
+      ],
+      "future_high": [
+        0.47214400873829104,
+        0.5187231453201443,
+        0.5728217537780806
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 1.4750087129998148,
+      "beta_high": 1.525517788054828,
+      "compatible": true,
+      "future_low": [
+        0.4517338940163448,
+        0.4962994806988244,
+        0.5480594831711109
+      ],
+      "future_high": [
+        0.4672027254589478,
+        0.5132943821522534,
+        0.5668268147306668
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 1.4777098994100863,
+      "beta_high": 1.5371501676498556,
+      "compatible": true,
+      "future_low": [
+        0.5059781723598301,
+        0.5490631456002985,
+        0.5991598041168154
+      ],
+      "future_high": [
+        0.52633093463106,
+        0.5711489830627678,
+        0.6232607589046317
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 1.4777098994100863,
+      "beta_high": 1.522692747456285,
+      "compatible": true,
+      "future_low": [
+        0.5059781723598301,
+        0.5490631456002985,
+        0.5991598041168154
+      ],
+      "future_high": [
+        0.5213806131576089,
+        0.5657771325988059,
+        0.6173987794628805
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 1.414241369549061,
+      "beta_high": 1.604816103884481,
+      "compatible": true,
+      "future_low": [
+        0.3800831135155845,
+        0.424420329834929,
+        0.47585295673441985
+      ],
+      "future_high": [
+        0.43130084759071474,
+        0.4816126828139917,
+        0.539976063839752
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 1.414241369549061,
+      "beta_high": 1.5879135051294178,
+      "compatible": true,
+      "future_low": [
+        0.3800831135155845,
+        0.424420329834929,
+        0.47585295673441985
+      ],
+      "future_high": [
+        0.42675820550736404,
+        0.47654013530325184,
+        0.534288808631925
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 1.4250261389994445,
+      "beta_high": 1.591634719000679,
+      "compatible": true,
+      "future_low": [
+        0.4364263079748851,
+        0.4794817322328345,
+        0.5294877802158835
+      ],
+      "future_high": [
+        0.48745159477975075,
+        0.5355408937861341,
+        0.591393456733308
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 1.4250261389994445,
+      "beta_high": 1.576553364164484,
+      "compatible": true,
+      "future_low": [
+        0.4364263079748851,
+        0.4794817322328345,
+        0.5294877802158835
+      ],
+      "future_high": [
+        0.48283280230269404,
+        0.5304664365931214,
+        0.5857897748945512
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 1.4331296982302593,
+      "beta_high": 1.5817303688296824,
+      "compatible": true,
+      "future_low": [
+        0.4907136006564076,
+        0.5324987675034463,
+        0.5810840880259531
+      ],
+      "future_high": [
+        0.5415955063344823,
+        0.5877133611596199,
+        0.641336474995494
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta1.5",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 1.4331296982302593,
+      "beta_high": 1.5680782423688553,
+      "compatible": true,
+      "future_low": [
+        0.4907136006564076,
+        0.5324987675034463,
+        0.5810840880259531
+      ],
+      "future_high": [
+        0.536920923049744,
+        0.582640728498969,
+        0.6358010140641484
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 1.5,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 2.990471263283229,
+      "beta_high": 3.028586210150313,
+      "compatible": true,
+      "future_low": [
+        0.8037013009950296,
+        0.8974541597020613,
+        1.006210554508372
+      ],
+      "future_high": [
+        0.8139448478100557,
+        0.9088926302978738,
+        1.0190351759294385
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 2.990471263283229,
+      "beta_high": 3.009768167236602,
+      "compatible": true,
+      "future_low": [
+        0.8037013009950296,
+        0.8974541597020613,
+        1.006210554508372
+      ],
+      "future_high": [
+        0.8088874223274496,
+        0.9032452491985417,
+        1.0127034269414283
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 2.991669570999938,
+      "beta_high": 3.024991287000185,
+      "compatible": true,
+      "future_low": [
+        0.9162241097339058,
+        1.0066137517859737,
+        1.1115953854715777
+      ],
+      "future_high": [
+        0.926429167094879,
+        1.0178255840966335,
+        1.1239765207750627
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 2.991669570999938,
+      "beta_high": 3.00850592935161,
+      "compatible": true,
+      "future_low": [
+        0.9162241097339058,
+        1.0066137517859737,
+        1.1115953854715777
+      ],
+      "future_high": [
+        0.9213803868814404,
+        1.012278718937117,
+        1.1178511626580967
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 2.992569966470029,
+      "beta_high": 3.0222901005899128,
+      "compatible": true,
+      "future_low": [
+        1.024676821139179,
+        1.1119299396146405,
+        1.2133827049760162
+      ],
+      "future_high": [
+        1.0348532022747936,
+        1.122972858345875,
+        1.225433182369924
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 2.992569966470029,
+      "beta_high": 3.0075642491520953,
+      "compatible": true,
+      "future_low": [
+        1.024676821139179,
+        1.1119299396146405,
+        1.2133827049760162
+      ],
+      "future_high": [
+        1.029810968071772,
+        1.117501268614143,
+        1.2194623634247046
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 2.9714137898496866,
+      "beta_high": 3.0476436835838547,
+      "compatible": true,
+      "future_low": [
+        0.7985795275875165,
+        0.8917349244041549,
+        0.9997982437978388
+      ],
+      "future_high": [
+        0.8190666212175687,
+        0.9146118655957801,
+        1.0254474866399717
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 2.9714137898496866,
+      "beta_high": 3.029304501709806,
+      "compatible": true,
+      "future_low": [
+        0.7985795275875165,
+        0.8917349244041549,
+        0.9997982437978388
+      ],
+      "future_high": [
+        0.8141378915847765,
+        0.909108192893596,
+        1.0192768610970073
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 2.9750087129998146,
+      "beta_high": 3.0416521450003082,
+      "compatible": true,
+      "future_low": [
+        0.9111215810534193,
+        1.0010078356306438,
+        1.1054048178198352
+      ],
+      "future_high": [
+        0.9315316957753655,
+        1.0234315002519634,
+        1.1301670884268051
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 2.9750087129998146,
+      "beta_high": 3.0255177880548283,
+      "compatible": true,
+      "future_low": [
+        0.9111215810534193,
+        1.0010078356306438,
+        1.1054048178198352
+      ],
+      "future_high": [
+        0.9265904124960225,
+        1.0180027370840727,
+        1.1241721493793915
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 2.9777098994100863,
+      "beta_high": 3.0371501676498553,
+      "compatible": true,
+      "future_low": [
+        1.0195886305713715,
+        1.1064084802490228,
+        1.207357466279062
+      ],
+      "future_high": [
+        1.0399413928426011,
+        1.1284943177114923,
+        1.2314584210668782
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 2.9777098994100863,
+      "beta_high": 3.0226927474562855,
+      "compatible": true,
+      "future_low": [
+        1.0195886305713715,
+        1.1064084802490228,
+        1.207357466279062
+      ],
+      "future_high": [
+        1.0349910713691504,
+        1.1231224672475306,
+        1.2255964416251273
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 2.9142413695490608,
+      "beta_high": 3.104816103884481,
+      "compatible": true,
+      "future_low": [
+        0.7832142073649775,
+        0.8745772185104362,
+        0.980561311666239
+      ],
+      "future_high": [
+        0.8344319414401078,
+        0.931769571489499,
+        1.0446844187715714
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 2.9142413695490608,
+      "beta_high": 3.0879135051294178,
+      "compatible": true,
+      "future_low": [
+        0.7832142073649775,
+        0.8745772185104362,
+        0.980561311666239
+      ],
+      "future_high": [
+        0.8298892993567571,
+        0.9266970239787591,
+        1.0389971635637443
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 2.9250261389994443,
+      "beta_high": 3.091634719000679,
+      "compatible": true,
+      "future_low": [
+        0.8958139950119596,
+        0.9841900871646537,
+        1.086833114864608
+      ],
+      "future_high": [
+        0.9468392818168253,
+        1.0402492487179535,
+        1.1487387913820326
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 2.9250261389994443,
+      "beta_high": 3.0765533641644844,
+      "compatible": true,
+      "future_low": [
+        0.8958139950119596,
+        0.9841900871646537,
+        1.086833114864608
+      ],
+      "future_high": [
+        0.9422204893397688,
+        1.035174791524941,
+        1.1431351095432758
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 2.933129698230259,
+      "beta_high": 3.081730368829682,
+      "compatible": true,
+      "future_low": [
+        1.004324058867949,
+        1.0898441021521708,
+        1.1892817501881996
+      ],
+      "future_high": [
+        1.0552059645460237,
+        1.1450586958083444,
+        1.2495341371577404
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "S_beta3.0",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 2.933129698230259,
+      "beta_high": 3.0680782423688555,
+      "compatible": true,
+      "future_low": [
+        1.004324058867949,
+        1.0898441021521708,
+        1.1892817501881996
+      ],
+      "future_high": [
+        1.0505313812612855,
+        1.1399860631476935,
+        1.243998676226395
+      ],
+      "joint_distance": 0.0,
+      "joint_beta": 3.0,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.6792943656911284,
+      "beta_high": 0.7174093125582124,
+      "compatible": true,
+      "future_low": [
+        0.18256312045786283,
+        0.20385935876954708,
+        0.2285636945482821
+      ],
+      "future_high": [
+        0.19280666727288887,
+        0.2152978293653596,
+        0.2413883159693485
+      ],
+      "joint_distance": 0.004585407822563559,
+      "joint_beta": 0.6792943656911284,
+      "pointwise": [
+        true,
+        false,
+        false
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 2.84467405380224,
+      "beta_high": 0.7011942348920877,
+      "compatible": false
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.6673593610251738,
+      "beta_high": 0.7006810770254206,
+      "compatible": true,
+      "future_low": [
+        0.20438444885592974,
+        0.22454789683424373,
+        0.24796641760102298
+      ],
+      "future_high": [
+        0.21458950621690287,
+        0.23575972914490362,
+        0.26034755290450784
+      ],
+      "joint_distance": 0.003581001473245249,
+      "joint_beta": 0.6673593610251738,
+      "pointwise": [
+        true,
+        false,
+        false
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 2.84467405380224,
+      "beta_high": 0.6861319500130527,
+      "compatible": false
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.6582364386130616,
+      "beta_high": 0.6879565727329462,
+      "compatible": true,
+      "future_low": [
+        0.22538474589839178,
+        0.24457667210452094,
+        0.26689190874297813
+      ],
+      "future_high": [
+        0.2355611270340067,
+        0.25561959083575564,
+        0.27894238613688627
+      ],
+      "joint_distance": 0.0028382666133378587,
+      "joint_beta": 0.6582364386130616,
+      "pointwise": [
+        true,
+        false,
+        false
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 2.84467405380224,
+      "beta_high": 0.6747355910428138,
+      "compatible": false
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.6602368922575864,
+      "beta_high": 0.7364667859917544,
+      "compatible": true,
+      "future_low": [
+        0.1774413470503498,
+        0.19814012347164078,
+        0.22215138383774885
+      ],
+      "future_high": [
+        0.19792844068040188,
+        0.22101706466326587,
+        0.24780062667988176
+      ],
+      "joint_distance": 0.003091027505905203,
+      "joint_beta": 0.6748530473474083,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 2.2421775116327747,
+      "beta_high": 0.7207305693652917,
+      "compatible": false
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.6506985030250503,
+      "beta_high": 0.7173419350255441,
+      "compatible": true,
+      "future_low": [
+        0.19928192017544316,
+        0.21894198067891374,
+        0.24177584994928047
+      ],
+      "future_high": [
+        0.21969203489738945,
+        0.2413656453002336,
+        0.2665381205562503
+      ],
+      "joint_distance": 0.002705685155944937,
+      "joint_beta": 0.6650035963056611,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 2.2421775116327747,
+      "beta_high": 0.7031438087162714,
+      "compatible": false
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.6433763715531192,
+      "beta_high": 0.7028166397928886,
+      "compatible": true,
+      "future_low": [
+        0.2202965553305843,
+        0.23905521273890357,
+        0.26086667004602404
+      ],
+      "future_high": [
+        0.24064931760181418,
+        0.261141050201373,
+        0.28496762483384036
+      ],
+      "joint_distance": 0.002409973688746514,
+      "joint_beta": 0.6571801382902306,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 2.2421775116327747,
+      "beta_high": 0.6898640893470039,
+      "compatible": false
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.6030644719569604,
+      "beta_high": 0.7936392062923804,
+      "compatible": true,
+      "future_low": [
+        0.16207602682781075,
+        0.180982417577922,
+        0.2029144517061492
+      ],
+      "future_high": [
+        0.21329376090294094,
+        0.23817477055698466,
+        0.2670375588114814
+      ],
+      "joint_distance": 0.003091027505905203,
+      "joint_beta": 0.6748530473474083,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.7418202393002857,
+      "beta_high": 0.7793395727849035,
+      "compatible": true,
+      "future_low": [
+        0.19936720300582847,
+        0.22262366058662458,
+        0.24960191508825053
+      ],
+      "future_high": [
+        0.2094506763045979,
+        0.23388338487103413,
+        0.26222612914235705
+      ],
+      "joint_distance": 0.025623628362531986,
+      "joint_beta": 0.7418202393002857,
+      "pointwise": [
+        false,
+        false,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.6007159290246801,
+      "beta_high": 0.7673245090259143,
+      "compatible": true,
+      "future_low": [
+        0.1839743341339835,
+        0.2021242322129239,
+        0.22320414699405317
+      ],
+      "future_high": [
+        0.2349996209388491,
+        0.25818339376622346,
+        0.2851098235114776
+      ],
+      "joint_distance": 0.002705685155944937,
+      "joint_beta": 0.6650035963056611,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.7418202393002857,
+      "beta_high": 0.7541793848259273,
+      "compatible": true,
+      "future_low": [
+        0.22718872261963163,
+        0.24960191508825053,
+        0.2756333663480098
+      ],
+      "future_high": [
+        0.2309738154708177,
+        0.25376042442599017,
+        0.28022557441398377
+      ],
+      "joint_distance": 0.03124795022023205,
+      "joint_beta": 0.7418202393002857,
+      "pointwise": [
+        false,
+        false,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.5987961703732924,
+      "beta_high": 0.7473968409727154,
+      "compatible": true,
+      "future_low": [
+        0.2050319836271619,
+        0.22249083464205152,
+        0.24279095395516181
+      ],
+      "future_high": [
+        0.25591388930523656,
+        0.2777054282982251,
+        0.3030433409247026
+      ],
+      "joint_distance": 0.002409973688746514,
+      "joint_beta": 0.6571801382902306,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Hybrid",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.7418202393002857,
+      "beta_high": 0.735249584259574,
+      "compatible": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.8012612375813754,
+      "beta_high": 0.8393761844484594,
+      "compatible": true,
+      "future_low": [
+        0.21534221277686552,
+        0.24046217715061222,
+        0.2696021607268864
+      ],
+      "future_high": [
+        0.2255857595918916,
+        0.2519006477464248,
+        0.28242678214795286
+      ],
+      "joint_distance": 0.04908189451362094,
+      "joint_beta": 0.8012612375813754,
+      "pointwise": [
+        true,
+        true,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.0,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.8012612375813754,
+      "beta_high": 0.6650336720915929,
+      "compatible": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.8039609235435536,
+      "beta_high": 0.8372826395438006,
+      "compatible": true,
+      "future_low": [
+        0.24621983275657566,
+        0.27051053010075543,
+        0.29872257998458634
+      ],
+      "future_high": [
+        0.2564248901175488,
+        0.28172236241141535,
+        0.3111037152880713
+      ],
+      "joint_distance": 0.05462960183357041,
+      "joint_beta": 0.8039609235435536,
+      "pointwise": [
+        false,
+        false,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.0,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.8039609235435536,
+      "beta_high": 0.6650336720915929,
+      "compatible": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.6479591552711199,
+      "beta_high": 0.6776792893910045,
+      "compatible": true,
+      "future_low": [
+        0.2218657324274421,
+        0.24075800815552478,
+        0.26272482894167953
+      ],
+      "future_high": [
+        0.23204211356305704,
+        0.2518009268867595,
+        0.27477530633558767
+      ],
+      "joint_distance": 0.00031461578602740015,
+      "joint_beta": 0.6563084075356385,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Regime",
+      "B": 0.0,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.8039609235435536,
+      "beta_high": 0.6490087026003051,
+      "compatible": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.7822037641478333,
+      "beta_high": 0.8584336578820014,
+      "compatible": true,
+      "future_low": [
+        0.21022043936935247,
+        0.23474294185270594,
+        0.2631898500163532
+      ],
+      "future_high": [
+        0.2307075329994046,
+        0.25761988304433103,
+        0.2888390928584861
+      ],
+      "joint_distance": 0.04266958380308772,
+      "joint_beta": 0.7822037641478333,
+      "pointwise": [
+        true,
+        true,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.005,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.7822037641478333,
+      "beta_high": 0.8397096426689459,
+      "compatible": true,
+      "future_low": [
+        0.21022043936935247,
+        0.23474294185270594,
+        0.2631898500163532
+      ],
+      "future_high": [
+        0.22567537784334343,
+        0.2520007200897831,
+        0.2825389815812197
+      ],
+      "joint_distance": 0.04266958380308772,
+      "joint_beta": 0.7822037641478333,
+      "pointwise": [
+        true,
+        true,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.7873000655434302,
+      "beta_high": 0.853943497543924,
+      "compatible": true,
+      "future_low": [
+        0.2411173040760891,
+        0.26490461394542547,
+        0.2925320123328439
+      ],
+      "future_high": [
+        0.26152741879803537,
+        0.2873282785667453,
+        0.3172942829398137
+      ],
+      "joint_distance": 0.04843903418182799,
+      "joint_beta": 0.7873000655434302,
+      "pointwise": [
+        false,
+        false,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.005,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.7873000655434302,
+      "beta_high": 0.8376407550706124,
+      "compatible": true,
+      "future_low": [
+        0.2411173040760891,
+        0.26490461394542547,
+        0.2925320123328439
+      ],
+      "future_high": [
+        0.2565345660265849,
+        0.28184285834369055,
+        0.3112367779668272
+      ],
+      "joint_distance": 0.04843903418182799,
+      "joint_beta": 0.7873000655434302,
+      "pointwise": [
+        false,
+        false,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.6330990882111776,
+      "beta_high": 0.6925393564509469,
+      "compatible": true,
+      "future_low": [
+        0.21677754185963463,
+        0.2352365487899074,
+        0.2566995902447254
+      ],
+      "future_high": [
+        0.23713030413086453,
+        0.25732238625237686,
+        0.28080054503254176
+      ],
+      "joint_distance": 0.00031461578602740015,
+      "joint_beta": 0.6563084075356385,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Regime",
+      "B": 0.005,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.7873000655434302,
+      "beta_high": 0.664709570611611,
+      "compatible": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P1",
+      "beta_low": 0.7250313438472074,
+      "beta_high": 0.9156060781826274,
+      "compatible": true,
+      "future_low": [
+        0.19485511914681342,
+        0.21758523595898716,
+        0.2439529178847535
+      ],
+      "future_high": [
+        0.24607285322194367,
+        0.2747775889380499,
+        0.30807602499008574
+      ],
+      "joint_distance": 0.024888572185545688,
+      "joint_beta": 0.7293583591417758,
+      "pointwise": [
+        true,
+        true,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.02,
+      "origin": 36,
+      "panel": "P2",
+      "beta_low": 0.7250313438472074,
+      "beta_high": 0.8983186460885577,
+      "compatible": true,
+      "future_low": [
+        0.19485511914681342,
+        0.21758523595898716,
+        0.2439529178847535
+      ],
+      "future_high": [
+        0.24142678561532405,
+        0.26958955117494615,
+        0.3022592840479568
+      ],
+      "joint_distance": 0.024888572185545688,
+      "joint_beta": 0.7293583591417758,
+      "pointwise": [
+        true,
+        true,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P1",
+      "beta_low": 0.73731749154306,
+      "beta_high": 0.9039260715442943,
+      "compatible": true,
+      "future_low": [
+        0.22580971803462946,
+        0.24808686547943562,
+        0.2739603093776166
+      ],
+      "future_high": [
+        0.276835004839495,
+        0.3041460270327352,
+        0.3358659858950411
+      ],
+      "joint_distance": 0.02986733122660068,
+      "joint_beta": 0.73731749154306,
+      "pointwise": [
+        false,
+        false,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.02,
+      "origin": 42,
+      "panel": "P2",
+      "beta_low": 0.73731749154306,
+      "beta_high": 0.8886763311802685,
+      "compatible": true,
+      "future_low": [
+        0.22580971803462946,
+        0.24808686547943562,
+        0.2739603093776166
+      ],
+      "future_high": [
+        0.2721646428703312,
+        0.29901491278455866,
+        0.33019973813071163
+      ],
+      "joint_distance": 0.02986733122660068,
+      "joint_beta": 0.73731749154306,
+      "pointwise": [
+        false,
+        false,
+        false
+      ],
+      "joint_approx": false
+    },
+    {
+      "generator": "Regime",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P1",
+      "beta_low": 0.5885188870313507,
+      "beta_high": 0.7371195576307737,
+      "compatible": true,
+      "future_low": [
+        0.20151297015621225,
+        0.21867217069305536,
+        0.23862387415386319
+      ],
+      "future_high": [
+        0.2523948758342869,
+        0.27388676434922893,
+        0.298876261123404
+      ],
+      "joint_distance": 0.00031461578602740015,
+      "joint_beta": 0.6563084075356385,
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true
+    },
+    {
+      "generator": "Regime",
+      "B": 0.02,
+      "origin": 48,
+      "panel": "P2",
+      "beta_low": 0.73731749154306,
+      "beta_high": 0.7118121746455285,
+      "compatible": false
+    }
+  ],
+  "information": [
+    {
+      "generator": "O_d-0.04",
+      "observation": "A_cash36",
+      "n": 3,
+      "prior_width": 0.04643718047263008,
+      "worst_width": 0.0,
+      "guaranteed_reduction": 0.04643718047263008,
+      "witness": [
+        [
+          "O",
+          73
+        ],
+        [
+          "O",
+          73
+        ]
+      ]
+    },
+    {
+      "generator": "O_d-0.04",
+      "observation": "A_holdings36",
+      "n": 3,
+      "prior_width": 0.04643718047263008,
+      "worst_width": 0.0,
+      "guaranteed_reduction": 0.04643718047263008,
+      "witness": [
+        [
+          "O",
+          73
+        ],
+        [
+          "O",
+          73
+        ]
+      ]
+    },
+    {
+      "generator": "O_d-0.04",
+      "observation": "log_price37",
+      "n": 3,
+      "prior_width": 0.04643718047263008,
+      "worst_width": 0.04643718047263008,
+      "guaranteed_reduction": 0.0,
+      "witness": [
+        [
+          "O",
+          3828
+        ],
+        [
+          "O",
+          73
+        ]
+      ]
+    },
+    {
+      "generator": "O_d+0.00",
+      "observation": "A_cash36",
+      "n": 184,
+      "prior_width": 0.3221957755265249,
+      "worst_width": 0.2819555306259408,
+      "guaranteed_reduction": 0.04024024490058409,
+      "witness": [
+        [
+          "T",
+          14455
+        ],
+        [
+          "T",
+          1049
+        ]
+      ]
+    },
+    {
+      "generator": "O_d+0.00",
+      "observation": "A_holdings36",
+      "n": 184,
+      "prior_width": 0.3221957755265249,
+      "worst_width": 0.279319611357824,
+      "guaranteed_reduction": 0.04287616416870088,
+      "witness": [
+        [
+          "T",
+          4630
+        ],
+        [
+          "T",
+          1049
+        ]
+      ]
+    },
+    {
+      "generator": "O_d+0.00",
+      "observation": "log_price37",
+      "n": 184,
+      "prior_width": 0.3221957755265249,
+      "worst_width": 0.3221957755265249,
+      "guaranteed_reduction": 0.0,
+      "witness": [
+        [
+          "O",
+          3896
+        ],
+        [
+          "T",
+          1049
+        ]
+      ]
+    },
+    {
+      "generator": "O_d+0.04",
+      "observation": "A_cash36",
+      "n": 3,
+      "prior_width": 0.048563436522239045,
+      "worst_width": 0.0,
+      "guaranteed_reduction": 0.048563436522239045,
+      "witness": [
+        [
+          "O",
+          498
+        ],
+        [
+          "O",
+          498
+        ]
+      ]
+    },
+    {
+      "generator": "O_d+0.04",
+      "observation": "A_holdings36",
+      "n": 3,
+      "prior_width": 0.048563436522239045,
+      "worst_width": 0.0,
+      "guaranteed_reduction": 0.048563436522239045,
+      "witness": [
+        [
+          "O",
+          498
+        ],
+        [
+          "O",
+          498
+        ]
+      ]
+    },
+    {
+      "generator": "O_d+0.04",
+      "observation": "log_price37",
+      "n": 3,
+      "prior_width": 0.048563436522239045,
+      "worst_width": 0.048563436522239045,
+      "guaranteed_reduction": 0.0,
+      "witness": [
+        [
+          "O",
+          3675
+        ],
+        [
+          "O",
+          498
+        ]
+      ]
+    },
+    {
+      "generator": "T_tau0",
+      "observation": "A_cash36",
+      "n": 189,
+      "prior_width": 0.4501556756043797,
+      "worst_width": 0.4269234698298193,
+      "guaranteed_reduction": 0.023232205774560366,
+      "witness": [
+        [
+          "O",
+          704
+        ],
+        [
+          "T",
+          15180
+        ]
+      ]
+    },
+    {
+      "generator": "T_tau0",
+      "observation": "A_holdings36",
+      "n": 189,
+      "prior_width": 0.4501556756043797,
+      "worst_width": 0.2775556758457179,
+      "guaranteed_reduction": 0.1725999997586618,
+      "witness": [
+        [
+          "O",
+          2437
+        ],
+        [
+          "T",
+          30552
+        ]
+      ]
+    },
+    {
+      "generator": "T_tau0",
+      "observation": "log_price37",
+      "n": 189,
+      "prior_width": 0.4501556756043797,
+      "worst_width": 0.4501556756043797,
+      "guaranteed_reduction": 0.0,
+      "witness": [
+        [
+          "O",
+          2437
+        ],
+        [
+          "T",
+          15180
+        ]
+      ]
+    },
+    {
+      "generator": "T_tau2",
+      "observation": "A_cash36",
+      "n": 278,
+      "prior_width": 0.45362155677627514,
+      "worst_width": 0.3116634552708876,
+      "guaranteed_reduction": 0.1419581015053875,
+      "witness": [
+        [
+          "T",
+          26594
+        ],
+        [
+          "T",
+          20086
+        ]
+      ]
+    },
+    {
+      "generator": "T_tau2",
+      "observation": "A_holdings36",
+      "n": 278,
+      "prior_width": 0.45362155677627514,
+      "worst_width": 0.27724810431959657,
+      "guaranteed_reduction": 0.17637345245667857,
+      "witness": [
+        [
+          "O",
+          2726
+        ],
+        [
+          "T",
+          35480
+        ]
+      ]
+    },
+    {
+      "generator": "T_tau2",
+      "observation": "log_price37",
+      "n": 278,
+      "prior_width": 0.45362155677627514,
+      "worst_width": 0.45362155677627514,
+      "guaranteed_reduction": 0.0,
+      "witness": [
+        [
+          "O",
+          2726
+        ],
+        [
+          "T",
+          15180
+        ]
+      ]
+    },
+    {
+      "generator": "T_tau4",
+      "observation": "A_cash36",
+      "n": 754,
+      "prior_width": 0.47407066136773923,
+      "worst_width": 0.4313533757912842,
+      "guaranteed_reduction": 0.042717285576455044,
+      "witness": [
+        [
+          "O",
+          993
+        ],
+        [
+          "T",
+          15180
+        ]
+      ]
+    },
+    {
+      "generator": "T_tau4",
+      "observation": "A_holdings36",
+      "n": 754,
+      "prior_width": 0.47407066136773923,
+      "worst_width": 0.32377580596282923,
+      "guaranteed_reduction": 0.15029485540491,
+      "witness": [
+        [
+          "T",
+          26883
+        ],
+        [
+          "T",
+          24909
+        ]
+      ]
+    },
+    {
+      "generator": "T_tau4",
+      "observation": "log_price37",
+      "n": 754,
+      "prior_width": 0.47407066136773923,
+      "worst_width": 0.47407066136773923,
+      "guaranteed_reduction": 0.0,
+      "witness": [
+        [
+          "O",
+          4748
+        ],
+        [
+          "T",
+          15180
+        ]
+      ]
+    },
+    {
+      "generator": "S_beta0.5",
+      "observation": "A_cash36",
+      "n": 310,
+      "prior_width": 0.40537948489356423,
+      "worst_width": 0.3377668161754851,
+      "guaranteed_reduction": 0.06761266871807914,
+      "witness": [
+        [
+          "T",
+          8964
+        ],
+        [
+          "T",
+          728
+        ]
+      ]
+    },
+    {
+      "generator": "S_beta0.5",
+      "observation": "A_holdings36",
+      "n": 310,
+      "prior_width": 0.40537948489356423,
+      "worst_width": 0.28826384025651225,
+      "guaranteed_reduction": 0.11711564463705199,
+      "witness": [
+        [
+          "T",
+          2896
+        ],
+        [
+          "T",
+          728
+        ]
+      ]
+    },
+    {
+      "generator": "S_beta0.5",
+      "observation": "log_price37",
+      "n": 310,
+      "prior_width": 0.40537948489356423,
+      "worst_width": 0.40537948489356423,
+      "guaranteed_reduction": 0.0,
+      "witness": [
+        [
+          "O",
+          4762
+        ],
+        [
+          "T",
+          728
+        ]
+      ]
+    },
+    {
+      "generator": "S_beta1.5",
+      "observation": "A_cash36",
+      "n": 96,
+      "prior_width": 0.12350171592054503,
+      "worst_width": 0.08912955070442988,
+      "guaranteed_reduction": 0.03437216521611515,
+      "witness": [
+        [
+          "T",
+          19377
+        ],
+        [
+          "T",
+          17118
+        ]
+      ]
+    },
+    {
+      "generator": "S_beta1.5",
+      "observation": "A_holdings36",
+      "n": 96,
+      "prior_width": 0.12350171592054503,
+      "worst_width": 0.08912955070442988,
+      "guaranteed_reduction": 0.03437216521611515,
+      "witness": [
+        [
+          "T",
+          19377
+        ],
+        [
+          "T",
+          17118
+        ]
+      ]
+    },
+    {
+      "generator": "S_beta1.5",
+      "observation": "log_price37",
+      "n": 96,
+      "prior_width": 0.12350171592054503,
+      "worst_width": 0.12350171592054503,
+      "guaranteed_reduction": 0.0,
+      "witness": [
+        [
+          "O",
+          4482
+        ],
+        [
+          "T",
+          17118
+        ]
+      ]
+    },
+    {
+      "generator": "Hybrid",
+      "observation": "A_cash36",
+      "n": 3,
+      "prior_width": 0.04981411663534506,
+      "worst_width": 0.0,
+      "guaranteed_reduction": 0.04981411663534506,
+      "witness": [
+        [
+          "O",
+          515
+        ],
+        [
+          "O",
+          515
+        ]
+      ]
+    },
+    {
+      "generator": "Hybrid",
+      "observation": "A_holdings36",
+      "n": 3,
+      "prior_width": 0.04981411663534506,
+      "worst_width": 0.0,
+      "guaranteed_reduction": 0.04981411663534506,
+      "witness": [
+        [
+          "O",
+          515
+        ],
+        [
+          "O",
+          515
+        ]
+      ]
+    },
+    {
+      "generator": "Hybrid",
+      "observation": "log_price37",
+      "n": 3,
+      "prior_width": 0.04981411663534506,
+      "worst_width": 0.04981411663534506,
+      "guaranteed_reduction": 0.0,
+      "witness": [
+        [
+          "O",
+          3692
+        ],
+        [
+          "O",
+          515
+        ]
+      ]
+    },
+    {
+      "generator": "Regime",
+      "observation": "A_cash36",
+      "n": 278,
+      "prior_width": 0.45362155677627514,
+      "worst_width": 0.3116634552708876,
+      "guaranteed_reduction": 0.1419581015053875,
+      "witness": [
+        [
+          "T",
+          26594
+        ],
+        [
+          "T",
+          20086
+        ]
+      ]
+    },
+    {
+      "generator": "Regime",
+      "observation": "A_holdings36",
+      "n": 278,
+      "prior_width": 0.45362155677627514,
+      "worst_width": 0.27724810431959657,
+      "guaranteed_reduction": 0.17637345245667857,
+      "witness": [
+        [
+          "O",
+          2726
+        ],
+        [
+          "T",
+          35480
+        ]
+      ]
+    },
+    {
+      "generator": "Regime",
+      "observation": "log_price37",
+      "n": 278,
+      "prior_width": 0.45362155677627514,
+      "worst_width": 0.45362155677627514,
+      "guaranteed_reduction": 0.0,
+      "witness": [
+        [
+          "O",
+          2726
+        ],
+        [
+          "T",
+          15180
+        ]
+      ]
+    }
+  ],
+  "generator_responses": [
+    {
+      "generator": "O_d-0.04",
+      "chi": 0.0,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.11883929821442044,
+      "volume": 0.20528655929058726,
+      "holdings": [
+        62.71997372152704,
+        30.124019911120858,
+        10.856006367352972
+      ],
+      "custody_threshold": 0.9684305357234355
+    },
+    {
+      "generator": "O_d-0.04",
+      "chi": 0.0,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.11203639807601809,
+      "volume": 0.19348516256031356,
+      "holdings": [
+        64.90564848573878,
+        29.25422023399875,
+        10.64013128026379
+      ],
+      "custody_threshold": 0.9684305357234355
+    },
+    {
+      "generator": "O_d-0.04",
+      "chi": 0.01,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.11883929821442044,
+      "volume": 0.20528655929058726,
+      "holdings": [
+        62.71997372152704,
+        30.124019911120858,
+        10.856006367352972
+      ],
+      "custody_threshold": 0.9684305357234355
+    },
+    {
+      "generator": "O_d-0.04",
+      "chi": 0.01,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.11203639807601809,
+      "volume": 0.19348516256031356,
+      "holdings": [
+        64.90564848573878,
+        29.25422023399875,
+        10.64013128026379
+      ],
+      "custody_threshold": 0.9684305357234355
+    },
+    {
+      "generator": "O_d-0.04",
+      "chi": 0.05,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.11883929821442044,
+      "volume": 0.20528655929058726,
+      "holdings": [
+        62.71997372152704,
+        30.124019911120858,
+        10.856006367352972
+      ],
+      "custody_threshold": 0.9684305357234355
+    },
+    {
+      "generator": "O_d-0.04",
+      "chi": 0.05,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.11203639807601809,
+      "volume": 0.19348516256031356,
+      "holdings": [
+        64.90564848573878,
+        29.25422023399875,
+        10.64013128026379
+      ],
+      "custody_threshold": 0.9684305357234355
+    },
+    {
+      "generator": "O_d-0.04",
+      "chi": 0.1,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.11883929821442044,
+      "volume": 0.20528655929058726,
+      "holdings": [
+        62.71997372152704,
+        30.124019911120858,
+        10.856006367352972
+      ],
+      "custody_threshold": 0.9684305357234355
+    },
+    {
+      "generator": "O_d-0.04",
+      "chi": 0.1,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.11203639807601809,
+      "volume": 0.19348516256031356,
+      "holdings": [
+        64.90564848573878,
+        29.25422023399875,
+        10.64013128026379
+      ],
+      "custody_threshold": 0.9684305357234355
+    },
+    {
+      "generator": "O_d+0.00",
+      "chi": 0.0,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1311660446652843,
+      "volume": 0.22541165387930118,
+      "holdings": [
+        69.44361723593741,
+        25.66094457113668,
+        8.595438192925187
+      ],
+      "custody_threshold": 0.9501469411012897
+    },
+    {
+      "generator": "O_d+0.00",
+      "chi": 0.0,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.12362705212339854,
+      "volume": 0.21166294618072623,
+      "holdings": [
+        71.83864846282529,
+        24.671084526410766,
+        8.290267010762218
+      ],
+      "custody_threshold": 0.9501469411012897
+    },
+    {
+      "generator": "O_d+0.00",
+      "chi": 0.01,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1311660446652843,
+      "volume": 0.22541165387930118,
+      "holdings": [
+        69.44361723593741,
+        25.66094457113668,
+        8.595438192925187
+      ],
+      "custody_threshold": 0.9501469411012897
+    },
+    {
+      "generator": "O_d+0.00",
+      "chi": 0.01,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.12362705212339854,
+      "volume": 0.21166294618072623,
+      "holdings": [
+        71.83864846282529,
+        24.671084526410766,
+        8.290267010762218
+      ],
+      "custody_threshold": 0.9501469411012897
+    },
+    {
+      "generator": "O_d+0.00",
+      "chi": 0.05,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1311660446652843,
+      "volume": 0.22541165387930118,
+      "holdings": [
+        69.44361723593741,
+        25.66094457113668,
+        8.595438192925187
+      ],
+      "custody_threshold": 0.9501469411012897
+    },
+    {
+      "generator": "O_d+0.00",
+      "chi": 0.05,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.12362705212339854,
+      "volume": 0.21166294618072623,
+      "holdings": [
+        71.83864846282529,
+        24.671084526410766,
+        8.290267010762218
+      ],
+      "custody_threshold": 0.9501469411012897
+    },
+    {
+      "generator": "O_d+0.00",
+      "chi": 0.1,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1311660446652843,
+      "volume": 0.22541165387930118,
+      "holdings": [
+        69.44361723593741,
+        25.66094457113668,
+        8.595438192925187
+      ],
+      "custody_threshold": 0.9501469411012897
+    },
+    {
+      "generator": "O_d+0.00",
+      "chi": 0.1,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.12362705212339854,
+      "volume": 0.21166294618072623,
+      "holdings": [
+        71.83864846282529,
+        24.671084526410766,
+        8.290267010762218
+      ],
+      "custody_threshold": 0.9501469411012897
+    },
+    {
+      "generator": "O_d+0.04",
+      "chi": 0.0,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1433967351565601,
+      "volume": 0.24584728266059974,
+      "holdings": [
+        76.13491966547227,
+        21.223292403092366,
+        6.341787931434777
+      ],
+      "custody_threshold": 0.917409839841277
+    },
+    {
+      "generator": "O_d+0.04",
+      "chi": 0.0,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.13510755882517067,
+      "volume": 0.22991483734840035,
+      "holdings": [
+        78.74125372828243,
+        20.11373861714722,
+        5.945007654570489
+      ],
+      "custody_threshold": 0.917409839841277
+    },
+    {
+      "generator": "O_d+0.04",
+      "chi": 0.01,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1433967351565601,
+      "volume": 0.24584728266059974,
+      "holdings": [
+        76.13491966547227,
+        21.223292403092366,
+        6.341787931434777
+      ],
+      "custody_threshold": 0.917409839841277
+    },
+    {
+      "generator": "O_d+0.04",
+      "chi": 0.01,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.13510755882517067,
+      "volume": 0.22991483734840035,
+      "holdings": [
+        78.74125372828243,
+        20.11373861714722,
+        5.945007654570489
+      ],
+      "custody_threshold": 0.917409839841277
+    },
+    {
+      "generator": "O_d+0.04",
+      "chi": 0.05,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1433967351565601,
+      "volume": 0.24584728266059974,
+      "holdings": [
+        76.13491966547227,
+        21.223292403092366,
+        6.341787931434777
+      ],
+      "custody_threshold": 0.917409839841277
+    },
+    {
+      "generator": "O_d+0.04",
+      "chi": 0.05,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.13510755882517067,
+      "volume": 0.22991483734840035,
+      "holdings": [
+        78.74125372828243,
+        20.11373861714722,
+        5.945007654570489
+      ],
+      "custody_threshold": 0.917409839841277
+    },
+    {
+      "generator": "O_d+0.04",
+      "chi": 0.1,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1433967351565601,
+      "volume": 0.24584728266059974,
+      "holdings": [
+        76.13491966547227,
+        21.223292403092366,
+        6.341787931434777
+      ],
+      "custody_threshold": 0.917409839841277
+    },
+    {
+      "generator": "O_d+0.04",
+      "chi": 0.1,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.13510755882517067,
+      "volume": 0.22991483734840035,
+      "holdings": [
+        78.74125372828243,
+        20.11373861714722,
+        5.945007654570489
+      ],
+      "custody_threshold": 0.917409839841277
+    },
+    {
+      "generator": "T_tau0",
+      "chi": 0.0,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3445562701767835,
+      "volume": 0.22225542139707527,
+      "holdings": [
+        68.98773483611217,
+        25.785753277852272,
+        8.926511886037295
+      ],
+      "custody_threshold": 0.9568058051121238
+    },
+    {
+      "generator": "T_tau0",
+      "chi": 0.0,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6591282999672258,
+      "volume": 0.20566081210455672,
+      "holdings": [
+        71.33019908826795,
+        24.767092911410575,
+        8.702708000324774
+      ],
+      "custody_threshold": 0.9568058051121238
+    },
+    {
+      "generator": "T_tau0",
+      "chi": 0.01,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3445562701767835,
+      "volume": 0.22225542139707527,
+      "holdings": [
+        68.98773483611217,
+        25.785753277852272,
+        8.926511886037295
+      ],
+      "custody_threshold": 0.9568058051121238
+    },
+    {
+      "generator": "T_tau0",
+      "chi": 0.01,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6591282999672258,
+      "volume": 0.20566081210455672,
+      "holdings": [
+        71.33019908826795,
+        24.767092911410575,
+        8.702708000324774
+      ],
+      "custody_threshold": 0.9568058051121238
+    },
+    {
+      "generator": "T_tau0",
+      "chi": 0.05,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3445562701767835,
+      "volume": 0.22225542139707527,
+      "holdings": [
+        68.98773483611217,
+        25.785753277852272,
+        8.926511886037295
+      ],
+      "custody_threshold": 0.9568058051121238
+    },
+    {
+      "generator": "T_tau0",
+      "chi": 0.05,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6591282999672258,
+      "volume": 0.20566081210455672,
+      "holdings": [
+        71.33019908826795,
+        24.767092911410575,
+        8.702708000324774
+      ],
+      "custody_threshold": 0.9568058051121238
+    },
+    {
+      "generator": "T_tau0",
+      "chi": 0.1,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3445562701767835,
+      "volume": 0.22225542139707527,
+      "holdings": [
+        68.98773483611217,
+        25.785753277852272,
+        8.926511886037295
+      ],
+      "custody_threshold": 0.9568058051121238
+    },
+    {
+      "generator": "T_tau0",
+      "chi": 0.1,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6591282999672258,
+      "volume": 0.20566081210455672,
+      "holdings": [
+        71.33019908826795,
+        24.767092911410575,
+        8.702708000324774
+      ],
+      "custody_threshold": 0.9568058051121238
+    },
+    {
+      "generator": "T_tau2",
+      "chi": 0.0,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3462996898031796,
+      "volume": 0.2215597380839908,
+      "holdings": [
+        69.13905424823102,
+        25.731755311931106,
+        8.829190439837378
+      ],
+      "custody_threshold": 0.956746486991827
+    },
+    {
+      "generator": "T_tau2",
+      "chi": 0.0,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6627617946712827,
+      "volume": 0.204990647018405,
+      "holdings": [
+        71.47400773011768,
+        24.713861106529027,
+        8.612131163353576
+      ],
+      "custody_threshold": 0.956746486991827
+    },
+    {
+      "generator": "T_tau2",
+      "chi": 0.01,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3462996898031796,
+      "volume": 0.2215597380839908,
+      "holdings": [
+        69.13905424823102,
+        25.731755311931106,
+        8.829190439837378
+      ],
+      "custody_threshold": 0.956746486991827
+    },
+    {
+      "generator": "T_tau2",
+      "chi": 0.01,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6627617946712827,
+      "volume": 0.204990647018405,
+      "holdings": [
+        71.47400773011768,
+        24.713861106529027,
+        8.612131163353576
+      ],
+      "custody_threshold": 0.956746486991827
+    },
+    {
+      "generator": "T_tau2",
+      "chi": 0.05,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3462996898031796,
+      "volume": 0.2215597380839908,
+      "holdings": [
+        69.13905424823102,
+        25.731755311931106,
+        8.829190439837378
+      ],
+      "custody_threshold": 0.956746486991827
+    },
+    {
+      "generator": "T_tau2",
+      "chi": 0.05,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6627617946712827,
+      "volume": 0.204990647018405,
+      "holdings": [
+        71.47400773011768,
+        24.713861106529027,
+        8.612131163353576
+      ],
+      "custody_threshold": 0.956746486991827
+    },
+    {
+      "generator": "T_tau2",
+      "chi": 0.1,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3462996898031796,
+      "volume": 0.2215597380839908,
+      "holdings": [
+        69.13905424823102,
+        25.731755311931106,
+        8.829190439837378
+      ],
+      "custody_threshold": 0.956746486991827
+    },
+    {
+      "generator": "T_tau2",
+      "chi": 0.1,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6627617946712827,
+      "volume": 0.204990647018405,
+      "holdings": [
+        71.47400773011768,
+        24.713861106529027,
+        8.612131163353576
+      ],
+      "custody_threshold": 0.956746486991827
+    },
+    {
+      "generator": "T_tau4",
+      "chi": 0.0,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3455522499026673,
+      "volume": 0.14986781973494362,
+      "holdings": [
+        69.2434585175134,
+        25.652820644737723,
+        8.803720837749113
+      ],
+      "custody_threshold": 0.9565158981632175
+    },
+    {
+      "generator": "T_tau4",
+      "chi": 0.0,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6297287641124902,
+      "volume": 0.2884334232636137,
+      "holdings": [
+        71.66031118183324,
+        24.680681731620705,
+        8.459007086546919
+      ],
+      "custody_threshold": 0.9565158981632175
+    },
+    {
+      "generator": "T_tau4",
+      "chi": 0.01,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3455522499026673,
+      "volume": 0.14986781973494362,
+      "holdings": [
+        69.2434585175134,
+        25.652820644737723,
+        8.803720837749113
+      ],
+      "custody_threshold": 0.9565158981632175
+    },
+    {
+      "generator": "T_tau4",
+      "chi": 0.01,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6297287641124902,
+      "volume": 0.2884334232636137,
+      "holdings": [
+        71.66031118183324,
+        24.680681731620705,
+        8.459007086546919
+      ],
+      "custody_threshold": 0.9565158981632175
+    },
+    {
+      "generator": "T_tau4",
+      "chi": 0.05,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3455522499026673,
+      "volume": 0.14986781973494362,
+      "holdings": [
+        69.2434585175134,
+        25.652820644737723,
+        8.803720837749113
+      ],
+      "custody_threshold": 0.9565158981632175
+    },
+    {
+      "generator": "T_tau4",
+      "chi": 0.05,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6297287641124902,
+      "volume": 0.2884334232636137,
+      "holdings": [
+        71.66031118183324,
+        24.680681731620705,
+        8.459007086546919
+      ],
+      "custody_threshold": 0.9565158981632175
+    },
+    {
+      "generator": "T_tau4",
+      "chi": 0.1,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3455522499026673,
+      "volume": 0.14986781973494362,
+      "holdings": [
+        69.2434585175134,
+        25.652820644737723,
+        8.803720837749113
+      ],
+      "custody_threshold": 0.9565158981632175
+    },
+    {
+      "generator": "T_tau4",
+      "chi": 0.1,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.6297287641124902,
+      "volume": 0.2884334232636137,
+      "holdings": [
+        71.66031118183324,
+        24.680681731620705,
+        8.459007086546919
+      ],
+      "custody_threshold": 0.9565158981632175
+    },
+    {
+      "generator": "Hybrid",
+      "chi": 0.0,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1658231379673134,
+      "volume": 0.21961803381282063,
+      "holdings": [
+        74.41424081154358,
+        19.970795205914467,
+        9.314963982542313
+      ],
+      "custody_threshold": 0.9338295434012239
+    },
+    {
+      "generator": "Hybrid",
+      "chi": 0.0,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.15518007157180475,
+      "volume": 0.20435870661494349,
+      "holdings": [
+        76.73609992286221,
+        18.759161127170376,
+        9.304738949967438
+      ],
+      "custody_threshold": 0.9338295434012239
+    },
+    {
+      "generator": "Hybrid",
+      "chi": 0.01,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1658231379673134,
+      "volume": 0.21961803381282063,
+      "holdings": [
+        74.41424081154358,
+        19.970795205914467,
+        9.314963982542313
+      ],
+      "custody_threshold": 0.9338295434012239
+    },
+    {
+      "generator": "Hybrid",
+      "chi": 0.01,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.15518007157180475,
+      "volume": 0.20435870661494349,
+      "holdings": [
+        76.73609992286221,
+        18.759161127170376,
+        9.304738949967438
+      ],
+      "custody_threshold": 0.9338295434012239
+    },
+    {
+      "generator": "Hybrid",
+      "chi": 0.05,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1658231379673134,
+      "volume": 0.21961803381282063,
+      "holdings": [
+        74.41424081154358,
+        19.970795205914467,
+        9.314963982542313
+      ],
+      "custody_threshold": 0.9338295434012239
+    },
+    {
+      "generator": "Hybrid",
+      "chi": 0.05,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.15518007157180475,
+      "volume": 0.20435870661494349,
+      "holdings": [
+        76.73609992286221,
+        18.759161127170376,
+        9.304738949967438
+      ],
+      "custody_threshold": 0.9338295434012239
+    },
+    {
+      "generator": "Hybrid",
+      "chi": 0.1,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.1658231379673134,
+      "volume": 0.21961803381282063,
+      "holdings": [
+        74.41424081154358,
+        19.970795205914467,
+        9.314963982542313
+      ],
+      "custody_threshold": 0.9338295434012239
+    },
+    {
+      "generator": "Hybrid",
+      "chi": 0.1,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.15518007157180475,
+      "volume": 0.20435870661494349,
+      "holdings": [
+        76.73609992286221,
+        18.759161127170376,
+        9.304738949967438
+      ],
+      "custody_threshold": 0.9338295434012239
+    },
+    {
+      "generator": "Regime",
+      "chi": 0.0,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3462996898031796,
+      "volume": 0.2215597380839908,
+      "holdings": [
+        69.13905424823102,
+        25.731755311931106,
+        8.829190439837378
+      ],
+      "custody_threshold": 0.9586107180618965
+    },
+    {
+      "generator": "Regime",
+      "chi": 0.0,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.3287563507177266,
+      "volume": 0.24115412651290669,
+      "holdings": [
+        71.40621283506854,
+        24.762016337159693,
+        8.631770827770579
+      ],
+      "custody_threshold": 0.9586107180618965
+    },
+    {
+      "generator": "Regime",
+      "chi": 0.01,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3462996898031796,
+      "volume": 0.2215597380839908,
+      "holdings": [
+        69.13905424823102,
+        25.731755311931106,
+        8.829190439837378
+      ],
+      "custody_threshold": 0.9586107180618965
+    },
+    {
+      "generator": "Regime",
+      "chi": 0.01,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.3287563507177266,
+      "volume": 0.24115412651290669,
+      "holdings": [
+        71.40621283506854,
+        24.762016337159693,
+        8.631770827770579
+      ],
+      "custody_threshold": 0.9586107180618965
+    },
+    {
+      "generator": "Regime",
+      "chi": 0.05,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3462996898031796,
+      "volume": 0.2215597380839908,
+      "holdings": [
+        69.13905424823102,
+        25.731755311931106,
+        8.829190439837378
+      ],
+      "custody_threshold": 0.9586107180618965
+    },
+    {
+      "generator": "Regime",
+      "chi": 0.05,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.3287563507177266,
+      "volume": 0.24115412651290669,
+      "holdings": [
+        71.40621283506854,
+        24.762016337159693,
+        8.631770827770579
+      ],
+      "custody_threshold": 0.9586107180618965
+    },
+    {
+      "generator": "Regime",
+      "chi": 0.1,
+      "horizon": 1,
+      "custody": 0.0,
+      "funding": 0.3462996898031796,
+      "volume": 0.2215597380839908,
+      "holdings": [
+        69.13905424823102,
+        25.731755311931106,
+        8.829190439837378
+      ],
+      "custody_threshold": 0.9586107180618965
+    },
+    {
+      "generator": "Regime",
+      "chi": 0.1,
+      "horizon": 12,
+      "custody": 0.0,
+      "funding": 0.3287563507177266,
+      "volume": 0.24115412651290669,
+      "holdings": [
+        71.40621283506854,
+        24.762016337159693,
+        8.631770827770579
+      ],
+      "custody_threshold": 0.9586107180618965
+    }
+  ],
+  "accounts": [
+    {
+      "generator": "O_d-0.04",
+      "price36": 1.130440510239679,
+      "price48": 1.1772661121208197,
+      "h36": [
+        62.514687162236406,
+        30.207866392962618,
+        10.877446444801752
+      ],
+      "cash36": [
+        38.527812839300935,
+        52.93481724839836,
+        33.73736991229994
+      ],
+      "volume37": 0.20528655929058726,
+      "volume48": 0.19348516256031356,
+      "custody_threshold": 0.9684305357234355
+    },
+    {
+      "generator": "O_d+0.00",
+      "price36": 1.1591255942315912,
+      "price48": 1.2082253245024188,
+      "h36": [
+        69.21820558205832,
+        25.756547140764237,
+        8.625247277177142
+      ],
+      "cash36": [
+        31.644576987581246,
+        57.45449494296085,
+        36.10092806945826
+      ],
+      "volume37": 0.22541165387930118,
+      "volume48": 0.21166294618072623,
+      "custody_threshold": 0.9501469411012897
+    },
+    {
+      "generator": "O_d+0.04",
+      "price36": 1.1893030284541808,
+      "price48": 1.240928378764002,
+      "h36": [
+        75.88907238281178,
+        21.33071844960464,
+        6.380209167583212
+      ],
+      "cash36": [
+        24.482087992014584,
+        62.152917214923136,
+        38.56499479306271
+      ],
+      "volume37": 0.24584728266059974,
+      "volume48": 0.22991483734840035,
+      "custody_threshold": 0.917409839841277
+    },
+    {
+      "generator": "T_tau0",
+      "price36": 1.2350700350363866,
+      "price48": 1.3124144444162136,
+      "h36": [
+        68.76547941471495,
+        25.885182530334074,
+        8.949338054952431
+      ],
+      "cash36": [
+        31.79551262256938,
+        57.48553492518386,
+        35.91895245224516
+      ],
+      "volume37": 0.22225542139707527,
+      "volume48": 0.20566081210455672,
+      "custody_threshold": 0.9568058051121238
+    },
+    {
+      "generator": "T_tau2",
+      "price36": 1.2370410960912959,
+      "price48": 1.3145328173999506,
+      "h36": [
+        68.91749451014715,
+        25.8311490478879,
+        8.851356441964702
+      ],
+      "cash36": [
+        31.628703132319547,
+        57.548497166849266,
+        36.022799700831236
+      ],
+      "volume37": 0.2215597380839908,
+      "volume48": 0.204990647018405,
+      "custody_threshold": 0.956746486991827
+    },
+    {
+      "generator": "T_tau4",
+      "price36": 1.2368169561131561,
+      "price48": 1.314756759550677,
+      "h36": [
+        69.11656415566895,
+        25.802688464472606,
+        8.68074737985855
+      ],
+      "cash36": [
+        31.40706565332463,
+        57.58170096651885,
+        36.2112333801565
+      ],
+      "volume37": 0.14986781973494362,
+      "volume48": 0.2884334232636137,
+      "custody_threshold": 0.9565158981632175
+    },
+    {
+      "generator": "Hybrid",
+      "price36": 1.19808274502545,
+      "price48": 1.2510438548750886,
+      "h36": [
+        74.19462277773086,
+        20.088421125385644,
+        9.316956096884056
+      ],
+      "cash36": [
+        26.220805606855787,
+        63.52327351703502,
+        35.455920876108706
+      ],
+      "volume37": 0.21961803381282063,
+      "volume48": 0.20435870661494349,
+      "custody_threshold": 0.9338295434012239
+    },
+    {
+      "generator": "Regime",
+      "price36": 1.2370410960912959,
+      "price48": 1.2467251908808055,
+      "h36": [
+        68.91749451014715,
+        25.8311490478879,
+        8.851356441964702
+      ],
+      "cash36": [
+        31.628703132319547,
+        57.548497166849266,
+        36.022799700831236
+      ],
+      "volume37": 0.2215597380839908,
+      "volume48": 0.24115412651290669,
+      "custody_threshold": 0.9586107180618965
+    }
+  ],
+  "combined_forecasts": [
+    {
+      "generator": "O_d-0.04",
+      "origin": 36,
+      "scope": [
+        "O"
+      ],
+      "low": [
+        0.12412281119271505,
+        0.14036215159254722,
+        0.15902574815357318
+      ],
+      "high": [
+        0.1268503948602215,
+        0.14414489886047288,
+        0.16420176019049007
+      ],
+      "truth": [
+        0.12611013368108456,
+        0.14328730618204807,
+        0.1631948962834369
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "O",
+        1806
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.001002744851102827,
+        0.018179917352066338,
+        0.038087507453455155
+      ]
+    },
+    {
+      "generator": "O_d-0.04",
+      "origin": 42,
+      "scope": [
+        "O"
+      ],
+      "low": [
+        0.1466573499356512,
+        0.1631948962834369,
+        0.18238384731182833
+      ],
+      "high": [
+        0.14753916590261026,
+        0.16420176019049007,
+        0.18354967307649894
+      ],
+      "truth": [
+        0.1466573499356512,
+        0.1631948962834369,
+        0.18238384731182833
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "O",
+        1806
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0008700437536031114,
+        0.017407590101388815,
+        0.03659654112978025
+      ]
+    },
+    {
+      "generator": "O_d-0.04",
+      "origin": 48,
+      "scope": [
+        "O"
+      ],
+      "low": [
+        0.16644159291043983,
+        0.18238384731182833,
+        0.20090247920397328
+      ],
+      "high": [
+        0.16747426758813988,
+        0.18354967307649894,
+        0.2022372445155857
+      ],
+      "truth": [
+        0.16644159291043983,
+        0.18238384731182833,
+        0.20090247920397328
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "O",
+        1806
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0007466966270029407,
+        0.016688951028391436,
+        0.035207582920536384
+      ]
+    },
+    {
+      "generator": "O_d+0.00",
+      "origin": 36,
+      "scope": [
+        "O",
+        "T",
+        "S_continuous"
+      ],
+      "low": [
+        0.14870139260810183,
+        0.16593683898210282,
+        0.18588943101048658
+      ],
+      "high": [
+        0.15406555658138588,
+        0.17243937164831838,
+        0.19377504765696557
+      ],
+      "truth": [
+        0.15124753451768633,
+        0.16880802974738163,
+        0.18915260902461864
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "O",
+        1874
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.001081611724250392,
+        0.018642106953945692,
+        0.038986686231182704
+      ]
+    },
+    {
+      "generator": "O_d+0.00",
+      "origin": 42,
+      "scope": [
+        "O",
+        "T",
+        "S_continuous"
+      ],
+      "low": [
+        0.1697182983162455,
+        0.18644700062845052,
+        0.20554696479690876
+      ],
+      "high": [
+        0.1748915132841964,
+        0.19214535010834863,
+        0.21218454858311347
+      ],
+      "truth": [
+        0.17225260220467825,
+        0.18915260902461864,
+        0.20875521809951492
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "O",
+        1874
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0009445724572966219,
+        0.01784457927723701,
+        0.03744718835213329
+      ]
+    },
+    {
+      "generator": "O_d+0.00",
+      "origin": 48,
+      "scope": [
+        "O",
+        "T",
+        "S_continuous"
+      ],
+      "low": [
+        0.18993306580154168,
+        0.20554696479690876,
+        0.2224017181698734
+      ],
+      "high": [
+        0.19511044053732177,
+        0.21171097824802632,
+        0.23102754077180201
+      ],
+      "truth": [
+        0.19246982112818697,
+        0.20875521809951492,
+        0.2276658674839567
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "O",
+        1874
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0008172121035683322,
+        0.017102609074896274,
+        0.03601325845933806
+      ]
+    },
+    {
+      "generator": "O_d+0.04",
+      "origin": 36,
+      "scope": [
+        "O"
+      ],
+      "low": [
+        0.17595267038018314,
+        0.19307373816283427,
+        0.21273306373549172
+      ],
+      "high": [
+        0.17838383047789436,
+        0.19664054303703354,
+        0.21781707828930177
+      ],
+      "truth": [
+        0.1770373599080134,
+        0.19502678660454323,
+        0.2158597920381039
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "O",
+        1942
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.001169914742820688,
+        0.019159341439350525,
+        0.0399923468729112
+      ]
+    },
+    {
+      "generator": "O_d+0.04",
+      "origin": 42,
+      "scope": [
+        "O"
+      ],
+      "low": [
+        0.19641539686985754,
+        0.21273306373549172,
+        0.2315034162985855
+      ],
+      "high": [
+        0.2002240283053551,
+        0.21781707828930177,
+        0.23824823861819883
+      ],
+      "truth": [
+        0.19855470399530178,
+        0.2158597920381039,
+        0.2359241439432407
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "O",
+        1942
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0010279173907585537,
+        0.018333005433560673,
+        0.03839735733869748
+      ]
+    },
+    {
+      "generator": "O_d+0.04",
+      "origin": 48,
+      "scope": [
+        "O"
+      ],
+      "low": [
+        0.21925575991919852,
+        0.2359241439432407,
+        0.2552717800816378
+      ],
+      "high": [
+        0.22127260886796646,
+        0.23824823861819883,
+        0.257984340454563
+      ],
+      "truth": [
+        0.21925575991919852,
+        0.2359241439432407,
+        0.2552717800816378
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "O",
+        1942
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0008959678810946115,
+        0.017564351905136805,
+        0.036911988043533905
+      ]
+    },
+    {
+      "generator": "T_tau0",
+      "origin": 36,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.2135703541694325,
+        0.23691410774292251,
+        0.2631921515759241
+      ],
+      "high": [
+        0.21893096107745794,
+        0.2452040265972446,
+        0.275673616517898
+      ],
+      "truth": [
+        0.2163975531616693,
+        0.24216532248327213,
+        0.27186852815229945
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "T",
+        30638
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0027698761581096687,
+        0.028537645479712492,
+        0.05824085114873981
+      ]
+    },
+    {
+      "generator": "T_tau0",
+      "origin": 42,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.24466251498589292,
+        0.2686058829923164,
+        0.2959414062153336
+      ],
+      "high": [
+        0.2499189655794858,
+        0.27522985963980395,
+        0.304559054742037
+      ],
+      "truth": [
+        0.24720588144461023,
+        0.27186852815229945,
+        0.3003308159922823
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "T",
+        30638
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0025405589613380908,
+        0.027203205669027314,
+        0.05566549350901015
+      ]
+    },
+    {
+      "generator": "T_tau0",
+      "origin": 48,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.2741061896076807,
+        0.29675564729431775,
+        0.3227620571709333
+      ],
+      "high": [
+        0.27940766919198784,
+        0.3038563080643016,
+        0.3322496930678566
+      ],
+      "truth": [
+        0.2766960291000179,
+        0.3003308159922823,
+        0.32763675488581756
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "T",
+        30638
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0023275009477184416,
+        0.025962287839982834,
+        0.05326822673351811
+      ]
+    },
+    {
+      "generator": "T_tau2",
+      "origin": 36,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.21517172935393264,
+        0.23848111956424378,
+        0.2647427308503269
+      ],
+      "high": [
+        0.2207785484313265,
+        0.2475360176874876,
+        0.2786191793365188
+      ],
+      "truth": [
+        0.21799478138471015,
+        0.24377236530603566,
+        0.2734813305665002
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "T",
+        30774
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.002772466140361002,
+        0.02855005006168651,
+        0.05825901532215105
+      ]
+    },
+    {
+      "generator": "T_tau2",
+      "origin": 42,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.24600109054290034,
+        0.2685343340380014,
+        0.2940673992689304
+      ],
+      "high": [
+        0.25154380102156987,
+        0.2769711802442642,
+        0.30636013788211586
+      ],
+      "truth": [
+        0.24881431315363334,
+        0.2734813305665002,
+        0.30194386462531686
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "T",
+        30774
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0025419478475976753,
+        0.02720896526046454,
+        0.0556714993192812
+      ]
+    },
+    {
+      "generator": "T_tau2",
+      "origin": 48,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.27559887547072187,
+        0.29760324336728816,
+        0.32270192020330674
+      ],
+      "high": [
+        0.2808759894227013,
+        0.3052197801528016,
+        0.3334706263498505
+      ],
+      "truth": [
+        0.2783092279463642,
+        0.30194386462531686,
+        0.3292454790414758
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "T",
+        30774
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.002327897379863997,
+        0.025962534058816655,
+        0.05326414847497557
+      ]
+    },
+    {
+      "generator": "T_tau4",
+      "origin": 36,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.21474817352923567,
+        0.23703498054223143,
+        0.2619752404859285
+      ],
+      "high": [
+        0.22430686487184395,
+        0.2513934392650568,
+        0.2826347376893862
+      ],
+      "truth": [
+        0.22139208878886427,
+        0.24370695566391518,
+        0.27365167479425745
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "T",
+        30910
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0063509803672374965,
+        0.028665847242288406,
+        0.05861056637263068
+      ]
+    },
+    {
+      "generator": "T_tau4",
+      "origin": 42,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.24572702595569457,
+        0.267271707469131,
+        0.2915637310754914
+      ],
+      "high": [
+        0.2550080943733832,
+        0.28073380213752447,
+        0.31062385749696414
+      ],
+      "truth": [
+        0.2521069009237473,
+        0.27365167479425745,
+        0.30241382897043223
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "T",
+        30910
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.005899945259832146,
+        0.02744471913034227,
+        0.05620687330651705
+      ]
+    },
+    {
+      "generator": "T_tau4",
+      "origin": 48,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.275615613203998,
+        0.29675541731566435,
+        0.3206824960841933
+      ],
+      "high": [
+        0.2842187894962154,
+        0.3090524451903327,
+        0.3378384347908664
+      ],
+      "truth": [
+        0.28137299586809755,
+        0.30241382897043223,
+        0.3300199592271046
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "T",
+        30910
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.005221321073840102,
+        0.02626215417617478,
+        0.053868284432847136
+      ]
+    },
+    {
+      "generator": "S_beta0.5",
+      "origin": 36,
+      "scope": [
+        "O",
+        "T",
+        "S_continuous"
+      ],
+      "low": [
+        0.13181614457937452,
+        0.14652742779839611,
+        0.1627010708659907
+      ],
+      "high": [
+        0.13710477111993452,
+        0.15349113589782967,
+        0.17252518069076986
+      ],
+      "truth": [
+        0.13437703128313103,
+        0.15005229622516908,
+        0.16823611831060645
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "S_continuous",
+        0.5
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0006948990493854945,
+        0.016370163991423548,
+        0.034553986076860915
+      ]
+    },
+    {
+      "generator": "S_beta0.5",
+      "origin": 42,
+      "scope": [
+        "O",
+        "T",
+        "S_continuous"
+      ],
+      "low": [
+        0.1505275857915014,
+        0.16492597333144715,
+        0.18151624850410983
+      ],
+      "high": [
+        0.15589428413302456,
+        0.17173770650514633,
+        0.19015821912981795
+      ],
+      "truth": [
+        0.1531292290123582,
+        0.16823611831060645,
+        0.1857817782162415
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "S_continuous",
+        0.5
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0005769327871891217,
+        0.015683822085437366,
+        0.033229481991072424
+      ]
+    },
+    {
+      "generator": "S_beta0.5",
+      "origin": 48,
+      "scope": [
+        "O",
+        "T",
+        "S_continuous"
+      ],
+      "low": [
+        0.16865380974677519,
+        0.18253320088490232,
+        0.19854296324177279
+      ],
+      "high": [
+        0.17391931605232835,
+        0.18908314417845906,
+        0.20672704025529923
+      ],
+      "truth": [
+        0.17120348607051378,
+        0.1857817782162415,
+        0.2027325540540822
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "S_continuous",
+        0.5
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0004673677599073278,
+        0.015045659905635056,
+        0.03199643574347574
+      ]
+    },
+    {
+      "generator": "S_beta1.5",
+      "origin": 36,
+      "scope": [
+        "O",
+        "T",
+        "S_continuous"
+      ],
+      "low": [
+        0.40057020714563657,
+        0.44729727102655414,
+        0.5003311400561864
+      ],
+      "high": [
+        0.4057563284780565,
+        0.453207223750138,
+        0.5081781270015213
+      ],
+      "truth": [
+        0.40313109384939305,
+        0.45015688867550724,
+        0.5047083549318193
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "S_continuous",
+        1.5
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.00708469714815646,
+        0.05411049197427065,
+        0.10866195823058272
+      ]
+    },
+    {
+      "generator": "S_beta1.5",
+      "origin": 42,
+      "scope": [
+        "O",
+        "T",
+        "S_continuous"
+      ],
+      "low": [
+        0.4566208927268719,
+        0.5003311400561864,
+        0.5508567068005576
+      ],
+      "high": [
+        0.4619926998443657,
+        0.5075703640052974,
+        0.560505828009372
+      ],
+      "truth": [
+        0.4593876870370746,
+        0.5047083549318193,
+        0.5573453346487245
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "S_continuous",
+        1.5
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0067307983615673694,
+        0.05205146625631207,
+        0.10468844597321725
+      ]
+    },
+    {
+      "generator": "S_beta1.5",
+      "origin": 48,
+      "scope": [
+        "O",
+        "T",
+        "S_continuous"
+      ],
+      "low": [
+        0.5110663629276375,
+        0.5545846049659157,
+        0.6051850428137694
+      ],
+      "high": [
+        0.5162005098602306,
+        0.5601559339654184,
+        0.6112647012624579
+      ],
+      "truth": [
+        0.5136104582115413,
+        0.5573453346487245,
+        0.6081976621622466
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "S_continuous",
+        1.5
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.006402103279722016,
+        0.05013697971690523,
+        0.10098930723042732
+      ]
+    },
+    {
+      "generator": "S_beta3.0",
+      "origin": 36,
+      "scope": [
+        "S_continuous"
+      ],
+      "low": [
+        0.8037013009950296,
+        0.8974541597020613,
+        1.006210554508372
+      ],
+      "high": [
+        0.8088874223274496,
+        0.9032452491985417,
+        1.0127034269414283
+      ],
+      "truth": [
+        0.8062621876987861,
+        0.9003137773510145,
+        1.0094167098636386
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "S_continuous",
+        3.0
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.016669394296312978,
+        0.11072098394854135,
+        0.2198239164611655
+      ]
+    },
+    {
+      "generator": "S_beta3.0",
+      "origin": 42,
+      "scope": [
+        "S_continuous"
+      ],
+      "low": [
+        0.9162241097339058,
+        1.0066137517859737,
+        1.1115953854715777
+      ],
+      "high": [
+        0.9213803868814404,
+        1.012278718937117,
+        1.1178511626580967
+      ],
+      "truth": [
+        0.9187753740741492,
+        1.0094167098636386,
+        1.114690669297449
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "S_continuous",
+        3.0
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.015961596723134797,
+        0.1066029325126242,
+        0.21187689194643455
+      ]
+    },
+    {
+      "generator": "S_beta3.0",
+      "origin": 48,
+      "scope": [
+        "S_continuous"
+      ],
+      "low": [
+        1.024676821139179,
+        1.1119299396146405,
+        1.2133827049760162
+      ],
+      "high": [
+        1.029810968071772,
+        1.117501268614143,
+        1.2194623634247046
+      ],
+      "truth": [
+        1.0272209164230826,
+        1.114690669297449,
+        1.2163953243244932
+      ],
+      "joint_distance": 0.0,
+      "joint_witness": [
+        "S_continuous",
+        3.0
+      ],
+      "pointwise": [
+        true,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.015304206559443978,
+        0.1027739594338104,
+        0.20447861446085458
+      ]
+    },
+    {
+      "generator": "Hybrid",
+      "origin": 36,
+      "scope": [
+        "O"
+      ],
+      "low": [
+        0.18305068235058672,
+        0.2003271507959653,
+        0.22015917413353533
+      ],
+      "high": [
+        0.18438077569212644,
+        0.20269244140844475,
+        0.22393165696902675
+      ],
+      "truth": [
+        0.18446052561574314,
+        0.20277760905837786,
+        0.22397828672571854
+      ],
+      "joint_distance": 8.516764993310444e-05,
+      "joint_witness": [
+        "O",
+        515
+      ],
+      "pointwise": [
+        false,
+        false,
+        false
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0012379590042793376,
+        0.019555042446914056,
+        0.04075572011425474
+      ]
+    },
+    {
+      "generator": "Hybrid",
+      "origin": 42,
+      "scope": [
+        "O"
+      ],
+      "low": [
+        0.20369859773911936,
+        0.22015917413353533,
+        0.23908867911431486
+      ],
+      "high": [
+        0.2062866148014628,
+        0.22393165696902675,
+        0.2444221649171057
+      ],
+      "truth": [
+        0.20636866114140767,
+        0.22397828672571854,
+        0.24438541612777773
+      ],
+      "joint_distance": 8.204633994488009e-05,
+      "joint_witness": [
+        "O",
+        515
+      ],
+      "pointwise": [
+        false,
+        false,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0010910520830298143,
+        0.01870067766734068,
+        0.03910780706939987
+      ]
+    },
+    {
+      "generator": "Hybrid",
+      "origin": 48,
+      "scope": [
+        "O"
+      ],
+      "low": [
+        0.2260817814116701,
+        0.24285291330146092,
+        0.2623176939842183
+      ],
+      "high": [
+        0.22739730406166947,
+        0.2444221649171057,
+        0.264214501386999
+      ],
+      "truth": [
+        0.22743303499192608,
+        0.24438541612777773,
+        0.2640536421296403
+      ],
+      "joint_distance": 0.0001608592573587031,
+      "joint_witness": [
+        "O",
+        515
+      ],
+      "pointwise": [
+        false,
+        true,
+        true
+      ],
+      "joint_approx": true,
+      "last_price_abs_log_errors": [
+        0.0009547482662075335,
+        0.017907129402059185,
+        0.037575355403921734
+      ]
+    },
+    {
+      "generator": "Regime",
+      "origin": 36,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.21517172935393264,
+        0.23848111956424378,
+        0.2647427308503269
+      ],
+      "high": [
+        0.2207785484313265,
+        0.2475360176874876,
+        0.2786191793365188
+      ],
+      "truth": [
+        0.21799478138471015,
+        0.24377236530603566,
+        0.22052026621326548
+      ],
+      "joint_distance": 0.04422246463706142,
+      "joint_witness": [
+        "T",
+        61132
+      ],
+      "pointwise": [
+        true,
+        true,
+        false
+      ],
+      "joint_approx": false,
+      "last_price_abs_log_errors": [
+        0.002772466140361002,
+        0.02855005006168651,
+        0.005297950968916332
+      ]
+    },
+    {
+      "generator": "Regime",
+      "origin": 42,
+      "scope": [
+        "O",
+        "T"
+      ],
+      "low": [
+        0.24600109054290034,
+        0.2685343340380014,
+        0.2940673992689304
+      ],
+      "high": [
+        0.25154380102156987,
+        0.2769711802442642,
+        0.30636013788211586
+      ],
+      "truth": [
+        0.20102587331409585,
+        0.22052026621326548,
+        0.24409297815101594
+      ],
+      "joint_distance": 0.04997442111791445,
+      "joint_witness": [
+        "T",
+        55828
+      ],
+      "pointwise": [
+        false,
+        false,
+        false
+      ],
+      "joint_approx": false,
+      "last_price_abs_log_errors": [
+        0.04524649199193981,
+        0.02575209909277018,
+        0.002179387155019724
+      ]
+    },
+    {
+      "generator": "Regime",
+      "origin": 48,
+      "scope": [],
+      "last_price_abs_log_errors": [
+        0.00138969261568464,
+        0.021072711937750455,
+        0.043404508986496726
+      ]
+    }
+  ],
+  "verification": {
+    "nested_panels_checked": 294,
+    "coarse_refined_state_difference": 0.0,
+    "account_errors": [
+      {
+        "model": "O",
+        "stock_error": 6.991740519879386e-12,
+        "cash_error": 1.1141310096718371e-11
+      },
+      {
+        "model": "T",
+        "stock_error": 7.531752999057062e-12,
+        "cash_error": 1.0686562745831907e-11
+      }
+    ],
+    "all_generators_retained": true
+  }
+}
