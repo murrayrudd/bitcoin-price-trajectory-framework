@@ -1,6 +1,6 @@
 # Bitcoin price trajectory framework — replication code
 
-Computational companion to “Conditions Supporting Bitcoin Price Trajectories: An inverse framework for scenario assessment,” Murray A. Rudd.
+Computational companion to “Conditions Supporting Bitcoin Price Trajectories: An inverse framework for scenario assessment,” Murray A. Rudd. DOI: https://doi.org/10.2139/ssrn.7436601
 
 This repository contains simulation and analysis code, a numerical protocol, and the small reference records needed for replication. All economic inputs are synthetic. No paper drafts, appendices, reference documents, manuscript builders, or writing package are included. Results describe conditional compatibility, not empirical forecasts or probabilities.
 
