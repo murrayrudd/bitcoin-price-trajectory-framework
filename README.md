@@ -60,3 +60,7 @@ The original plotting script also generates `results_v05/outputs/figure_4_regime
 State order is `[log_price, h_A, h_B, h_C, c_A, c_B, c_C, lagged_log_return]`. O/T parameter order is `[f, d, g, eta, tau]`. Price indices use the main T generating economy's month-36 price as 100. Candidate counts depend on menu spacing and have no probability interpretation.
 
 The scientific engine and analysis scripts are unchanged from the v0.8 source archive. Replication entry points and dependencies have been limited to computations and figures. Generated figures and caches are ignored by Git.
+
+## License
+
+The replication code is available under the [MIT License](LICENSE).

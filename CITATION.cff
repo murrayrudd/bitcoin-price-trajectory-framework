@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this replication code, please cite the accompanying paper below."
 type: software
+license: MIT
 title: "Bitcoin price trajectory framework — replication code"
 authors:
   - family-names: Rudd
