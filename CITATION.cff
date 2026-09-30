@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this replication code, please cite the accompanying paper below."
+type: software
+title: "Bitcoin price trajectory framework — replication code"
+authors:
+  - family-names: Rudd
+    given-names: Murray A.
+repository-code: "https://github.com/murrayrudd/bitcoin-price-trajectory-framework"
+preferred-citation:
+  type: generic
+  title: "Conditions Supporting Bitcoin Price Trajectories: An inverse framework for scenario assessment"
+  authors:
+    - family-names: Rudd
+      given-names: Murray A.
+  doi: "10.2139/ssrn.7436601"
+  url: "https://doi.org/10.2139/ssrn.7436601"
