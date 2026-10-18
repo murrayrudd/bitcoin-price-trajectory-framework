@@ -61,6 +61,34 @@ State order is `[log_price, h_A, h_B, h_C, c_A, c_B, c_C, lagged_log_return]`. O
 
 The scientific engine and analysis scripts are unchanged from the v0.8 source archive. Replication entry points and dependencies have been limited to computations and figures. Generated figures and caches are ignored by Git.
 
+## Citation
+
+If you use this code or its results in research, please cite the paper and
+identify the repository commit used:
+
+```bibtex
+@article{Rudd2026BitcoinTrajectories,
+  author = {Rudd, Murray A.},
+  title = {Conditions Supporting {Bitcoin} Price Trajectories: An inverse framework for scenario assessment},
+  journal = {SSRN preprint},
+  year = {2026},
+  doi = {10.2139/ssrn.7436601},
+  url = {https://doi.org/10.2139/ssrn.7436601}
+}
+```
+
+[CITATION.cff](CITATION.cff) supplies machine-readable metadata and the preferred
+paper citation through GitHub's **Cite this repository** option. The DOI
+identifies the paper; the software has no separate DOI.
+
 ## License
 
 The replication code is available under the [MIT License](LICENSE).
+
+## Author
+
+**Murray A. Rudd, Ph.D.** — Institutional economist and policy researcher
+
+- ORCID: [0000-0001-9533-5070](https://orcid.org/0000-0001-9533-5070)
+- SSRN: [Author profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5958022)
+- Google Scholar: [Profile](https://scholar.google.co.uk/citations?hl=en&user=84qbofEAAAAJ)

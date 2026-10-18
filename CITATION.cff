@@ -6,12 +6,16 @@ title: "Bitcoin price trajectory framework — replication code"
 authors:
   - family-names: Rudd
     given-names: Murray A.
+    orcid: "https://orcid.org/0000-0001-9533-5070"
 repository-code: "https://github.com/murrayrudd/bitcoin-price-trajectory-framework"
 preferred-citation:
-  type: generic
+  type: article
+  journal: "SSRN preprint"
+  year: 2026
   title: "Conditions Supporting Bitcoin Price Trajectories: An inverse framework for scenario assessment"
   authors:
     - family-names: Rudd
       given-names: Murray A.
+      orcid: "https://orcid.org/0000-0001-9533-5070"
   doi: "10.2139/ssrn.7436601"
   url: "https://doi.org/10.2139/ssrn.7436601"
